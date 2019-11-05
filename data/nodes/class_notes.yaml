@@ -69,14 +69,15 @@ Class Tips:
     - "They can also break rods if they need insane damage before they get Comet."
     - "The Slow spell is available early and works on, like, everything."
     - "Comet and Meteor do damage independent of your stats/gear and cannot be reflected."
-    - "Time-based effects like Regen continue during Quick, making Regen a full heal if you have the patience.
+    - "Time-based effects like Regen continue during Quick, making Regen a full heal if you have the patience."
     - "You can kill literally anything in the game (very slowly) by casting Quick, snapping a Poison Rod with your first action, and waiting hours without taking your second action."
   Summoner:
     - "Summoner is pretty broken."
     - "They have incredible damage output, but will generally only have one 'good' element at a time."
     - "Remember that you can always snap an elemental rod for higher-power fire/lightning/ice damage."
     - "Don't bother deliberately skipping optional summons to boost !Call; it's just trash regardless."
-    - "Air Lancet boosted Syldras are your best offensive option through the endgame."
+    - "Syldras with Air Knife (Moore) or Magus Rod ( enki.bot/sealed_castle ) is your best end-game offense."
+    - "If you can't boost Syldras, Bahamut does the same damage (for twice the MP cost)."
     - "This makes the side quests to get Bahamut and Leviathan basically pointless."
     - "Don't underestimate Golem: he can singlehandedly neuter physical-heavy bosses."
     - "...or anyone you can land Berserk on, which Summoners can (once per fight) with the Wonder Rod."
@@ -116,9 +117,10 @@ Class Tips:
   Ranger:
     - "Ranger is pretty broken, but not until you pony up 605 AP."
     - "The Ranger's signature ability is !Rapid Fire, which hits 4 times for half damage."
-    - "...it also never misses, procs !Spellblade, ignores defense (!) and doesn't proc the Chicken Knife (!!)."
-    - "This rarely comes up in a Fiesta run, but savor the combination of Rapid Fire+Spellblade on a Freelancer if you get it."
-    - "If you're between level 10 and 19, you'll often get Nightingale, a powerful heal-all effect, from !Animals."
+    - "...it also never misses, procs Spellblade, ignores defense (!) and doesn't proc the Chicken Knife (!!)."
+    - "This rarely comes up in a fiesta, but savor the combination of Rapid Fire+Spellblade on a Freelancer if you get it."
+    - "If you're between level 10 and 19, you'll often get Nightingale, a powerful heal-all !Animals effect."
+    - "About !Animals https://kwhazit.ucoz.net/trans/ff5/animals.html"
   Samurai:
     - "The Samurai is basically a big beefcake with a few dirty tricks available at need."
     - "Katanas can crit, ignoring physical defense."

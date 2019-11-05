@@ -1,17 +1,18 @@
 ---
-Neo Ex Cactuar:
+Neo Exdeath:
   Metadata:
     next-node: end
-    previous-nodes:
-    - tree_exdeath
+    previous-nodes: [tree_exdeath]
   Generic:
   - "Image guide: http://i.imgur.com/FphWf.gif"
+  - 'Battle strategy (Final Fantasy Wiki) https://finalfantasy.fandom.com/wiki/Neo_Exdeath_(Final_Fantasy_V)#Battle'
   - "High level strategy overview follows:"
   - "Biggest threats are: Grand Cross (random ailments), Almagest (1620-1665 holy damage + Sap status), enrage (last part living uses every part's bad stuff, attacks twice a turn)"
   - "Grand Cross can be mitigated with Hermes Sandals, Aegis Shield, and luck. Most parties will kill Grand Cross first to lower the number of dice rolls."
   - "Almagest is a HP check. Unless you have extreme damage output and rush it first, you will need the HP (or Shell) to survive it."
   - "You can skip enrage either by counting HP and killing the last 2 parts at the same time..."
   - "...or by saving the bottom, non-Heavy part for last, then killing it with the Magic Lamp's Odin."
+  - 'Around level 40 is considered enough to beat Exdeath when playing the game casually'
   Break-Rods:
   - "Even without !White, you get one free Shell casting from the Wonder Wand, if you have it."
   Berserker:
@@ -61,7 +62,7 @@ Neo Ex Cactuar:
   - "The top-left piece, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. This might be a reason to learn it from Wendigo or Twintania."
   Bard:
   - "Apollo's Harp will do massive damage vs. the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
-  - "...but they should be, since you buffed all your stats to maximum in the Treedeath phase of the fight."
+  - "And they should be, since you buffed all your stats to maximum in the Treedeath phase of the fight."
   Ranger:
   - "The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded by Dark Bow."
   - "On SNES, the two 'dummy' targets make !Rapid Fire less reliable."
