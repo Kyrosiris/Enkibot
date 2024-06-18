@@ -4,6 +4,7 @@ Archaeoavis:
     next-node: purobolos
     previous-nodes: ['ronka']
   Generic:
+    - "Galuf leaves your party after this fight for a while. Unequip him here or do without what he's wearing for the next few bosses."
     - "Has 5 forms, each with their own HP pool but all with a single shared MP pool."
     - "The forms have steadily decreasing physical defense and steadily increasing magic defense."
     - "Form 1 has 1600 HP, is weak to wind, has the highest physical defense, and inflicts Sap."
