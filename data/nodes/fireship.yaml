@@ -5,34 +5,34 @@ Karnak/Fire-Powered Ship:
   Generic:
     - "You'll only get one discounted item at a Karnak store, so pick a pricey one.  Mythril Hammer is the most expensive item in the store."
     - "In the Matrix version, you can buy up to 99 of the discounted item at once, then resell them all to double your cash."
-    - "Wild Nakks outside of Karnak are the easiest way to farm cash in world 1."
+    - "After some plot business, you'll be sent off to the next dungeon, the Fire-Powered Ship."
+    - "Before you go there, go shopping! Wild Nakks outside of Karnak are the easiest way to farm cash in all of world 1."
   Break-Rods:
     - "This is especially nice since the Karnak weapon shop is the only source of Rods in world 1."
     - "Stock up before setting foot in the Fire-Powered Ship. Rods make the Karnak 500 so much easier."
   Chemist:
     - "Now's the perfect time to farm Turtle Shells from Grass Tortoises. They are pretty common in the grasslands just outside the meteorite you arrived through."
-    - "You probably want most of a full stack of 99. You can farm them again in W2 or W3, but you're here now and they only get more obnoxious to find."
-    - "Succubus Kiss is going to be your main !Mix offense for most boss fights for the rest of the game. Also they're used for some other stuff like Turtle Soup."
+    - "You probably want most of a full stack of 99. You can still farm them in world 2 and world 3, but you're here now and enemies that drop them only get more obnoxious to find."
+    - "Succubus Kiss is going to be your main !Mix offense for most boss fights for the rest of the game. Also, they're used for some other stuff like Turtle Soup."
   Bard:
-    - "The third piano is in Karnak's Pub, so make sure to play that for your Bard."
+    - "The third piano is in Karnak's Pub, so make sure to play that for your Bard. now"
   Black-Mage:
     - "The magic store here sells Poison and Sleep."
   White-Mage:
     - "The magic store here sells Cura, Raise, and Confuse."
   Time-Mage:
     - "The magic store here sells Stop and Gravity."
-  Generic`:
-    - "After some plot business, you'll be sent off to the next dungeon, the Fire-Powered Ship."
   Blue-Mage:
-    - "Wild Nakks can teach your Blue Mage the ???? spell, which is Vampire without the drain, so it is basically useless except for costing 0 MP."
-    - "Crew Dusts in the Fire Ship cast Flash, if you didn't get it from Headstones earlier."
+    - "Wild Nakks can teach your Blue Mage the ???? spell, which is Vampire without the drain, so it is basically useless (although it does cost 0 MP.)"
+    - "Crew Dusts in the Fire Ship cast Flash when they are the only enemy alive in the encounter, if you didn't get it from Headstones earlier."
   INTERSECTION Thief Ninja:
-    - "Make sure to get the Moonring Blade. It does full damage from the back row and is an attack power upgrade."
+    - "Make sure to get the chest with the Moonring Blade. It does full damage from the back row and is also just a raw attack power upgrade."
   Thief:
     - "Don't skip the chest with the Thief's Gloves, which boost !Steal's success rate from 40% to 80%."
     - "Once you have them, you can steal Hi-Potions from Poltergeists to your heart's content."
     - "You can also steal Ethers from Motor Traps, which show up after you kill a Defeater when it's alone."
   Freelancer:
-    - "If you have plans to steal literally anything later, don't skip the chest with the Thief's Gloves, which boosts the success rate of the Thief Knife's ~Mug proc from 40% to 80%."
-    - "Yes, this is going to be ages from now, but you'd look really silly having to beat Fork Tower to come back."
-    - "You want to steal things if you have any other Aegis Shield user beyond your Freelancer, for example."
+    - "If you have plans to steal anything later, don't skip the chest with the Thief's Gloves, which boosts the success rate of the Thief Knife's !Mug proc from 40% to 80%. You'd look really silly having to beat Fork Tower just to come back."
+    - "You want to steal things in world 3 if you have at least three Aegis Shield users total, or want the Genji Armor from Gilgamesh, or multiple Bone Mails or Mirage Vests. That's really about it."
+  UNION Dancer Freelancer:
+    - "Notably, you can steal additional Rainbow Dresses inside Phoenix Tower, which lets you have boosted !Dance odds on multiple characters. So grab those Gloves now so you don't have to later."
