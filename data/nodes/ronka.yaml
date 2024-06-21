@@ -1,7 +1,7 @@
 Ronka Ruins:
   Metadata:
     next-node: archaeoavis
-    previous-nodes: ['soulcannon']
+    previous-nodes: ['soul_cannon']
   Generic:
     - "Don't hit the speed trap!"
   Chemist:

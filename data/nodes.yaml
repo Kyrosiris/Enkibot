@@ -1,5 +1,6 @@
 Manifest:
   - versions
+  - job_notes
   - torna
   - karlabos
   - ship_graveyard
@@ -21,7 +22,7 @@ Manifest:
   - bearaga
   - crayclaw
   - adamantoise
-  - soulcannon
+  - soul_cannon
   - ronka
   - archaeoavis
   - purobolos
@@ -40,7 +41,8 @@ Manifest:
   - ghidos_cave
   - moore
   - seal_crystals
-  - meatcastle
+  - fifth_job
+  - meat_castle
   - exdeath_w2
   - antlion
   - chicken_knife

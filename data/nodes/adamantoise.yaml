@@ -1,6 +1,6 @@
 Adamantoise:
   Metadata:
-    next-node: soulcannon
+    next-node: soul_cannon
     previous-nodes: ['crayclaw']
   Generic:
     - "The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses."
