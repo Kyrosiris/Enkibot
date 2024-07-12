@@ -3,7 +3,7 @@ Sandworm (Zerkersbane):
     next-node: bearaga
     previous-nodes: ['chocobo_forest']
   Generic:
-    - "3000 HP, can use Fight or Quicksand (~50 party damage and HP Sap)."
+    - "3000 HP, can use Fight or Quicksand (deals 60 damage and inflicts Sap on all party members.)"
     - "Attacking the wrong hole triggers a Gravity counterattack."
     - "The game tells you not to use magic here. The game is lying. Use magic if at all possible."
   Break-Rods:
@@ -13,7 +13,7 @@ Sandworm (Zerkersbane):
     - "If you have 4 berserkers, my condolences. Level 35 is the recommended minimum, 38 is easier, 40 should be more than enough."
     - "If you're on the Matrix version, Berserkers will always attack the front target. This balances out to be just as stupid."
   Ninja:
-    - "!Thrown Scrolls will work just fine on the Sandworm. Water is no more effective than Flame or Thunder, so use whichever."
+    - "!Throwing Scrolls will work just fine on the Sandworm. Water is no more effective than Flame or Thunder, so use whichever."
   Blue-Mage:
     - "The Dhorme Chimera in the desert south of Karnak can teach you Aqua Breath, which will nearly one-shot the Sandworm."
   Beastmaster:
