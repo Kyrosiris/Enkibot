@@ -9,13 +9,13 @@ Shinryu:
   - "Generally a lot more possible than Omega. There's a lot of ways to hurt Shinryu, so the only real question is how not to die."
   - "Coral Rings to absorb the opening Tidal Wave is mandatory for a straight-up fight..."
   - "...unless you are using Berserk strategies, in which case literally every job can get one turn before Tidal Wave via Hermes Sandals."
-  - "As such, the vast majority of easy Shinryu kills involve Berserk."
+  - "As such, the vast majority of easy Shinryu kills involve Berserk. (Since Berserk's a buff, it doesn't check magic evasion and will always hit.)"
   Time-Mage:
-  - "Obvious exception, Quick + Venom Rod works just as well here as anywhere, if you have the patience."
+  - "Obvious exception, Quick + Venom Rod works just as well here as anywhere, if you have the patience. That said..."
   White-Mage:
-  - "Anyone with !White can simply cast Berserk, of course."
+  - "Having !White means you can just cast Berserk."
   Break-Rods:
-  - "Anyone who can wield a Rod can (eventually) cast Berserk with the Wonder Wand."
+  - "Any job that can wield a Rod can cast Berserk with a properly prepared Wonder Wand."
   Staff:
   - "Staff-users can attack with the Power Staff to apply a Berserk proc."
   Chemist:
@@ -23,33 +23,34 @@ Shinryu:
   Beastmaster:
   - "If you don't have better Berserk options, bring at least one party member with a Reflect Ring."
   - "!Release a Mammon (caught in the Rift Castle) to cast Berserk and hope it targets the Reflected party member to bounce it to Shinryu."
-  - "Once you've gotten that RNG, !Release a Galajelly from the same encounter to blind Shinryu and trivialize the fight."
+  - "Once you've gotten that RNG out of the way, !Release a Galajelly from the same encounter to blind Shinryu and trivialize the fight."
   - "Also, you can !Calm lock on GBA, if you really want to. You don't need to, though, because blind is very strong."
   - "Also, if you want a Dragon Whisker for your Beastmaster, remember that you can run from Shinryu."
   - "There's nothing stopping you from !Stealing (or Thief Knife !Mugging) and running repeatedly. Except common sense, really."
   Generic`:
-  - "You also need some way of surviving incredibly fast one-shot physical attacks."
+  - "Once you've landed Berserk, you will want some way to survive incredibly fast one-shot physical attacks."
   Shield:
   - "The Aegis Shield + mini status will boost a character's evasion % into the stratosphere."
   - "So will the Genji Shield from Gilgamesh in the Void, if you stole it. 99% Shield Evasion, baby!"
   White-Mage`:
   - "White Mages have access to Blink as well, making them perfect for this strategy."
   Knight:
-  - "Knights can coverscum Shinryu the same way they can any other berserked enemy."
+  - "Knights can use !Cover against Shinryu the same way they can any other berserked enemy."
   INTERSECTION Freelancer Knight:
   - "Shinryu absorbs Holy, so don't hit it with the Excalibur."
   Summoner:
-  - "Summoners can barely keep up with Shinryu's offense by casting Golem before every hit."
+  - "Summoners can keep up with Shinryu's offense by casting Golem before every hit."
+  - "And I do mean every hit, because even at level 99 Golem lasts for about 50% of a Shinryu hit. It absorbs one, then goes away."
   Ninja:
   - "If you give the Ninja's !Image command to everyone, that'll work just fine."
   Chemist`:
-  - "Chemists can also inflict Blind with Dragon Fang + Eye Drops."
+  - "Chemists can inflict Blind with Dragon Fang + Eye Drops."
   Ranger:
   - "Rangers can inflict blind at a flat 66% rate with Dark Bow !Attacks, since it doesn't care about level or magic evasion."
   Cannoneer:
   - "You can inflict both Berserk and Blind with your magic gun."
   - "Admittedly, you're using up one of the 4 Ash in the game to do so. Maybe take a picture for RK but don't save afterwards."
-  - "Kidding. There's no better use for Ash than this!"
+  - "Kidding. There's no better use for Ash than this! You have it to use it!"
   Generic``:
   - "In the worst case scenario, any class which can wear the Mirage Vest can abuse a GBA bug."
   - "On GBA, changing weapons with a Mirage Vest equipped will refresh its start-of-battle Blink status."
