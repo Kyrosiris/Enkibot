@@ -15,50 +15,53 @@ Neo Ex Cactuar:
   - "Even without !White, you get one free Shell cast from the Wonder Wand."
   Berserker:
   - "In the SNES version, there are two 'dummy' targets in the fight that will cause your Berserker to miss a lot. You will probably be better served equipping the Earth Hammer and Thornlet to underflow your magic stat."
-  - "In the GBA version, the dummy targets are gone, making the Rune Axe much more reliable."
-  - "In the Matrix version, Berserkers attack targets in a nice orderly fashion, which is actually awful when trying to avoid enrage mode. Play around it."
+  - "In the GBA and Pixel versions, the dummy targets are gone, making the Rune Axe much more reliable."
+  - "In the Matrix version, Berserkers attack targets in a nice orderly fashion... which is actually awful if you're trying to avoid the enrage mode. Play around it."
   Mystic-Knight:
-  - "Congratulations! Mystic Knights don't care about Almagest. Break Blade kills the part that casts it with 100% accuracy."
+  - "Congratulations! Mystic Knights don't care about Almagest. Break Blade kills that part with perfect accuracy."
   Time-Mage:
   - "If things go seriously south, Quick is a good recovery tool to throw out two Phoenix Downs/Remedies/Elixirs in one turn."
   - "On SNES, your Meteors will be weaker than expected, due to the presence of two 'dummy' targets."
   - "If you're a gambling sort, you can try to land Old on the Almagest part at *extremely* low odds."
-  - "You can also, with even more gambling (and high levels) involved, attempt to Banish the far-left piece. Not very practical, but absolutely hilarious."
+  - "You can also, with even more gambling (and high levels) involved, attempt to Banish the leftmost part. Not very practical, but absolutely hilarious."
   Dragoon:
   - "The Dragon Lance is super-effective against the Grand Cross part, if you stole one (please do not waste the effort just for this.)"
   - "Almagest is telegraphed by Neo Exdeath beginning to shake, and Grand Cross is telegraphed by the warning 'The laws of the universe mean nothing!'. A well-timed !Jump can dodge those."
   Dancer:
-  - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross almost completely useless."
-  - "That said, the Man-Eater deals critical damage to the left-most piece (the one that dies to Magic Lamp Odin, so this tip isn't great.)"
+  - "You'll probably have to look elsewhere for damage, but Equip Ribbons make Grand Cross almost completely safe."
+  - "The Man-Eater deals critical damage to the left-most part (the one that dies to Magic Lamp Odin, so this tip isn't great, but it's what you've got to work with.)"
+  - "Beyond that, it's Sword Dance all the way."
   Chemist:
-  - "Chemists want to lean on spamming Holy Breath (Dragon Fang + Holy Water). It does damage equal to your HP, which combos with Giant's Drink doubling your max HP."
-  - "Between Giant's Drink and the ability to Shell the team, Chemists can neuter Almagest."
+  - "Chemists want to lean on spamming Holy Breath (Dragon Fang + Holy Water). It does damage equal to your HP, which combos with Goliath Tonic doubling your max HP."
+  - "Between Goliath Tonic and the ability to Shell the whole team, Chemists can neuter Almagest."
   - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from Grand Cross's 'HP Critical' result." 
   Samurai:
-  - "You will need an obscene amount of cash to kill NED with just !Zeninage, but it's conceptually simple."
-  - "If you have a way to kill them, the Movers in the last room of the void drop 50k gil each and come in packs of three."
+  - "You will need an obscene amount of gil to kill NED with just !Zeninage, but it's conceptually simple."
+  - "If you have an easy way to kill them, the Movers in the last room of the void drop 50k gil each and come in packs of three."
   Thief:
   - "Remember that the weapons you can steal off of NED's parts (Ragnarok, Dragon Lance, Murakumo) can be equipped mid-battle."
   UNION Thief Ninja:
   - "...or thrown by your Ninja."
   Beastmaster:
   - "Beastmasters can release a Dragon Aevis for a 9999-all-target Breath Wing. 4 of them will get NED's parts real low."
-  - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain and literally impossible without the Kornago Gourd."
-  - "As long as you're under level 45, using the Dancing Dagger in the back row against a Crystelle that you have !Controlled to use Protect on itself first can do the necessary 2 damage."
-  - "Alternatively, if you have an Excalipoor wielder, that's going to be way easier."
+  - "You can also release a Crystelle for Mighty Guard to trivialize Almagest, but catching one's a horrible pain (and literally impossible without the Kornago Gourd, since they have 3 HP.)"
+  - "Anyone under level 45 attacking with the Dancing Dagger in the back row targeting a Crystelle that you have !Controlled to use Protect on itself first can get to the necessary 2 damage."
+  - "Alternatively, if you have an Excalipoor wielder, that's going to be way easier. Way way way easier."
+  - "The Beast Killer whip does 8x damage on the Almagest part of NED, since it's a Magical Beast."
   Blue-Mage:
   - "Mighty Guard and White Wind allow you to win stand-up brawls against NED with little fuss."
-  - "Or you could abuse Dark Spark and Level 5 Death, but honestly it's not really worth the setup time it takes thanks to the level-based magic accuracy formula."
+  - "Or you could abuse Dark Spark and Level 5 Death, but honestly it's not really worth the setup time thanks to the level-based magic accuracy formula making the first few successful Sparks take forever."
   UNION Blue-Mage Chemist:
   - "Unless you have !Mix AND math both on your side, which lets you set up the hilarious QUAD SKULL by taking all parts to level 255."
   Blue-Mage`:
-  - "Condemn works on the far-left piece, if you don't want to just Magic Lamp it, or if you think that telling the final boss it has 30 seconds to live is hilarious (it is.)"
-  - "The top-left piece, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. That said, it has 75% magic evasion and is high level to boot, so it's likely not worth the effort."
+  - "Condemn works on the far-left part, if you don't want to just Magic Lamp it, or if you think that telling the final boss it has 30 seconds to live is hilarious (it is.)"
+  - "The top-left part, which casts Grand Cross, can be locked down by Paralyze from Mind Blast. That said, it has 75% magic evasion and is high level to boot, so it's likely not worth the effort."
+  - "On Pixel, theoretically you can land Old from Time Slip on the Almagest part, but the odds will be incredibly low thanks to its magic evasion and high level."
   Bard:
   - "Apollo's Harp does 8x damage against the Grand Cross part, if for some reason your party isn't 99 speed/level 255 anyway."
-  - "...but they should be, since you buffed all your stats to maximum in the Treedeath phase of the fight, right?"
+  - "...but they should be, since you buffed all your stats to maximum at the start of the Treedeath phase of the fight, right?"
   Ranger:
-  - "The Melee piece (the one that chucks out 1800 damage Vacuum Waves) can be blinded by Dark Bow."
+  - "The top-right Melee part (the one that chucks out 1800 damage Vacuum Waves) can be blinded by Dark Bow."
   - "On SNES, the two 'dummy' targets make !Rapid Fire less reliable."
   Summoner:
   - "An actual !Summoned Odin will not work on the leftmost part, as he will use Gungnir if any enemy on the field is Heavy."
@@ -74,15 +77,15 @@ Neo Ex Cactuar:
   White-Mage:
   - "Blink is good against the physicals/Vacuum Waves. Shell is great against Almagest. You know the drill."
   INTERSECTION Summoner Black-Mage:
-  - "If you're having trouble killing the Almagest piece before it kills you, you can attempt (at fairly low odds) to Petrify it."
+  - "If you're having trouble killing the Almagest part before it kills you, you can attempt (at fairly low odds) to Petrify it."
   - "At sane levels, you've got about an 8% shot per cast. It's low, but can save you a bunch of grinding in return for a bunch of RNG."
   Black-Mage:
   - "AoE damage makes it pretty easy to kill the last two parts at the same time."
-  - "If you go with this method, though, keep in mind that the far right piece has 5000 less HP than the middle pieces."
-  - "Alternatively, the far-left piece has 5000 more than the middle ones, and dies to Magic Lamp Odin, so you can leave it for last on purpose."
+  - "If you go with this method, though, keep in mind that the rightmost part has 5000 less HP than the middle parts."
+  - "Alternatively, the leftmost part has 5000 more than the middle ones, and dies to Magic Lamp Odin, so you can leave it for last on purpose."
   Red-Mage:
-  - "At least you can put up Protect...?"
-  - "Raise+Cura isn't the *worst*, but you're probably better off breaking rods for middling damage."
+  - "At least you can put up Protect for Almagest...?"
+  - "Raise+Cura isn't the *worst*, but offensively, on its own, RDM is probably breaking rods for this entire fight. Especially on Pixel, where you get to break BOOSTED rods."
   - "Hopefully you have another class that can use !Dualcast and can pick up the slack."
   Knight:
   - "Aegis Shield protects against a few Grand Cross outcomes, and can block Almagest, but you were wearing it anyway."
@@ -91,16 +94,16 @@ Neo Ex Cactuar:
   - "You can steal a Ragnarok in this fight, and then swap it in to wield it without having to fight Shinryu, but it's a rare steal so it may not be worth your time."
   - "...and this is relevant because if you have Knight and Thief, your odds of being able to fight Shinryu are not great."
   Freelancer:
-  - "If all else fails, you have access to Apollo's Harp (top middle piece), Man-Eater (far left piece), and Artemis Bow (bottom middle piece) for 8x, 2x, and 2x !Attack damage respectively."
+  - "If all else fails, you have access to Apollo's Harp (top middle part), Man-Eater (leftmost part), and Artemis Bow (bottom middle part) for 8x, 2x, and 2x !Attack damage respectively."
   - "Wearing a Ribbon is great against Grand Cross, plus you have Aegis Shield access."
   Cannoneer:
-  - "The physical attack piece (far right) and the magic piece (far left) are vulnerable to Slow."
-  - "All four pieces are vulnerable to Darkness, but only the far-right one actually matters, because that one physically attacks."
-  - "The Almagest piece (bottom middle) is vulnerable to Old, which will completely nerf its Almagest damage."
-  - "The Grand Cross piece (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more than Needle Cannon at sane levels."
-  - "Between the Lamp, Darkness+Slow, and Old, the only piece you don't outright neuter is the Grand Cross piece... and for some reason CAN gets Aegis Shield access."
+  - "The physical attack part (rightmost) and the magic part (leftmost) are vulnerable to Slow."
+  - "All four parts are vulnerable to Darkness, but only the far-right one actually matters, because that one physically attacks."
+  - "The Almagest part (bottom middle) is vulnerable to Old, which will completely nerf its Almagest damage."
+  - "The Grand Cross part (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more than Needle Cannon at sane levels."
+  - "Between the Lamp, Darkness+Slow, and Old, the only part you don't outright neuter is the Grand Cross part... and for some reason CAN gets Aegis Shield access."
   Gladiator:
-  - "Fishing for 9999 !Finisher probably averages more damage than !Bladeblitz, but either should be fine, because Gladiator has lots of weapon options and LOTS of Strength."
+  - "Fishing for 9999 !Finisher hits will probably average more damage than !Bladeblitz, but either should be fine because Gladiator has lots of weapon options and LOTS of Strength."
   Oracle:
   - "Uh... just do whatever you've been doing all game. Probably with your other three jobs, honestly."
-  - "You can land Condemn on the back piece to kill it via Doom. (That's the one that dies to Magic Lamp Odin anyway.) But if you wanted something to do with your Oracle, there you go."
+  - "You can land Condemn on the leftmost part to kill it with Doom. (The one that dies to Magic Lamp Odin anyway.) If you wanted something to do with specifically your Oracle, there you go."
