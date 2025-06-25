@@ -6,26 +6,27 @@ Stokker:
     - island_shrine
   Generic:
   - "20000 HP, uses physical attacks and Hurricane/Mind Blast/Confuse."
-  - "Attacking the 'wrong' ones of the four does no damage. The real one always starts in the top right for the first hit, then moves to a random location when hit."
-  - "They respond to multi-target attacks with an Ice-element counter."
-  - "If you have Fire Rings or Ice Shields, you can just blast away to your heart's content."
+  - "Attacking the three 'wrong' ones of the four does no damage. The real one always starts in the top right for the first hit, then moves to a random location when hit."
+  - "They respond to multi-target attacks with an Ice-elemental counter. You can absorb this with a Fire Ring, but then you're not wearing Hermes Sandals."
+  - "Attacking the real one with a weak weapon (like non-Monk unarmed fists, or the Knife) displays 0 damage and doesn't trigger it to move."
+  - "You can then unleash your strongest attack on that one, let it move, and repeat the process."
+  Shield:
+  - "You can put an Ice Shield on your Shield user and just multi-target burn them all down if you are so inclined."
   White-Mage:
   - "You can just Shell up and heal through the counterattacks."
   Blue-Mage:
   - "With Mighty Guard and White Wind, you don't really care about the counterattacks."
   - "You can learn Mind Blast while you're here, even though you'll never use it."
-  - "You can inflict Sleep with Time Slip on Pixel, but not in other versions thanks to the Old immunity."
+  - "You can inflict Sleep with Time Slip on Pixel, but not in other versions thanks to the Old immunity blocking the entire spell."
   INTERSECTION Red-Mage Black-Mage Mystic-Knight:
   - "Just put it to Sleep. If it's asleep, it can't move or counter."
+  - "Then burn it down with spells to keep it asleep, ideally, or just put it to Sleep again and again."
   Time-Mage:
   - "You can hit it with Slow."
   Ranger:
-  - "!Rapid Fire isn't technically multi-target. You're good, no counters here."
+  - "!Rapid Fire isn't technically multi-target. You're good, no counters here!"
   Berserker:
-  - "Unlike most things that counter indiscriminate attacks, since Berserker isn't multi-target, it's not actively detrimental here. Yay Berserker!"
+  - "Unlike most things that counter indiscriminate attacks, since Berserker isn't multi-target, it's not actively detrimental here. Yay, Berserker!"
   Beastmaster:
-  - "This fight isn't great for !Release. A Dragon Aevis from the Void will do 5000 damage, but provoke counters."
+  - "This fight isn't optimal for !Release. A Dragon Aevis from the Void will do 5000 damage, but provoke counters."
   - "Four of them will still kill, you'll just eat a lot of counters along the way."
-  Generic`:
-  - "Attacking the real one with a weak weapon (like unarmed fists or a Knife) will display 0 damage and still doesn't trigger a move."
-  - "You can then unleash your strongest attack on that one, let it move, and repeat the process."
