@@ -7,25 +7,25 @@ Aviation:
   Generic:
   - "There are a lot of interesting things to do now that you have a working Airship."
   - "First, let's get a stupid sidequest out of the way and ride Boko around the world! Start from where you parked him near Ghido's Cave, then do a full loop."
-  - "Also take Boko all the way to the top of Istory Falls to find the Magic Lamp, which can one-shot part of the final boss."
-  - "It summons a !Summon when used in battle, starting from the strongest and going in descending order until it just makes Chocobos forever."
-  - "Examine the waterfall again to recharge the Lamp and restart from the top of its order if you want to use it for multiple bosses."
-  - "Hidden in a forest on an island to the south, you can visit the Phantom Village."
+  - "Along the way, take a detour to the top of Istory Falls to grab the Magic Lamp, which can one-shot part of the final boss."
+  - "The Lamp summons a !Summon when used in battle, starting from the highest level ones and going in descending order until it just makes Chocobos forever."
+  - "Examine the waterfall again to recharge the Lamp and restart from the top of its order if you want to use it for multiple bosses. (Or you can recharge it in the Deep Sea Trench if you're going there.)"
+  - "Hidden in a forest on an island to the south, you can visit the Phantom Village, with unique magic shops and also buyable Hermes Sandals."
   White-Mage:
-  - "Arise and Dispel will both come in handy in upcoming boss fights."
+  - "Arise and Dispel are both great, obviously."
   Black-Mage:
   - "Black Mages get the short end of the stick here, 'only' learning Death and Osmose."
   Time-Mage:
-  - "Quick is obscene, even without Venom Rod abuse. Just bring a Gold Hairpin."
+  - "Quick is obscene, even without Venom Rod abuse. Just bring a Gold Hairpin, since it's expensive."
   Bard:
-  - "The eighth and final piano is carefully hidden behind a secret passage in the basement. Sneaky!"
-  - "The composer on Crescent Island will teach you Sinewy Etude once you've played seven pianos and Hero's Rime once you've played all eight."
+  - "The eighth and final piano is hidden off to the left behind a secret passage in the basement. Sneaky!"
+  - "The composer on Crescent Island will teach you Sinewy Etude once you've played seven pianos, and Hero's Rime once you've played all eight."
   Generic`:
-  - "The Accessory Shop sells Hermes Sandals for 50k each. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
+  - "The Accessory Shop sells Hermes Sandals for 50k gil. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
   - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them. Sell all your garbage to do so."
-  - "Don't forget the Thief Knife behind the bar, which gives every party access to !Steal."
-  Mime:
-  - "For some reason, Mimes can wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !Mug proc."
+  - "Don't forget the Thief Knife hidden in a barrel behind the bar, which gives every party access to !Steal."
+  INTERSECTION Mime Freelancer:
+  - "The Thief Gloves from way back in World 1 boost the steal success rate of the Thief Knife !Mug proc. So don't sell those if you want to Steal anything later."
   Summoner:
   - "In Faris's old hideout, you can get the Syldra summon. When boosted with the Air Knife, it's the strongest summon in the game."
   - "You can also visit Bal Castle's basement to get the Odin summon, but it's not that useful. It doesn't work like Lamp Odin does on the final boss."
@@ -39,14 +39,14 @@ Aviation:
   - "Of course, it's a rare encounter and a rare drop, so you may want to skip it."
   - "If you're interested, the easiest kill is to !Release a Zombie Dragon to poison it, then hold it down with !Control and watch it slowly bleed out. You monster."
   INTERSECTION Blue-Mage Beastmaster:
-  - "GBA players (NA version only) can use the Quicksave trick to find guaranteed Stingrays."
+  - "GBA players can use the Quicksave trick to find guaranteed Stingrays, since it's the rare encounter. It will be the second encounter after a Quicksave."
   Dancer:
-  - "Dancers (and Equip Ribbon-havers) will appreciate the Ribbon that the girl in the middle of the Regole equipment shop gives you."
-  - "Stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife, obviously) so that you can Swords Dance half the time you !Dance."
-  - "The Dress means you you don't care about Lamia's Tiara or Red Slippers, which is good because Ribbons and Hermes Sandals are strictly better in those slots."
+  - "Dancers (and associated Equip Ribbon users) will appreciate the Ribbon that the girl in the middle of the Regole equipment shop gives you."
+  - "Stop by Phoenix Tower to common-steal a Rainbow Dress from Parthenope (with the Thief's Knife, if needed) so that you can Swords Dance half the time you !Dance."
+  - "The Dress means you you don't care about Lamia's Tiara or Red Slippers, which is good because Ribbons and Hermes Sandals are strictly better uses of those two slots."
   Freelancer:
   - "Freelancers will appreciate the Ribbon that the girl in the Regole equipment shop gives you."
   - "You can also wear the Thief Gloves from World 1 to boost the success rate of the Thief Knife !Mug proc."
   Red-Mage:
   - "While RDM can't summon Phoenix, everything in Phoenix Tower is vulnerable to Toad, and the Magic Pots alone give enough AP to get halfway to !Dualcast."
-  - "There's nowhere better if you're specifically planning to grind for !Dualcast. Which you might not want to for your sanity's sake."
+  - "The walk up to the final Pot likely beats even Movers in ABP/minute if you're specifically grinding for !Dualcast. Which you might not want to, for your sanity's sake."
