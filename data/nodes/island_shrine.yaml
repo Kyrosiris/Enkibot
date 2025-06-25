@@ -7,12 +7,13 @@ Island Shrine:
   Generic:
   - "Consider carefully whether you actually need to do the various optional World 3 dungeons. Most parties don't!"
   - "The Island Shrine is required for Fork Tower, therefore also the Deep Sea Trench and Istory Falls."
-  INTERSECTION Cannoneer Gladiator Oracle:
-  - "And yes, this means it's mandatory to unlock Cannoneer, Gladiator, and Oracle. Sorry."
+  INTERSECTION Cannoneer Gladiator Oracle Mime:
+  - "And yes, this means it's mandatory to unlock Mime, Cannoneer, Gladiator, and/or Oracle. Sorry."
   Thief:
   - "The Island Shrine contains the Rising Sun, the best Thief-only weapon in the game (but you probably don't care.)"
   - "Additional Mirage Vests, which grant natural Blink, can be rarely stolen from Oiseaurares in the Shrine as well."
   UNION Thief Shield:
-  - "You can steal more Ice Shields from Numb Blades here, if you have a use for them. Stokker in here may be one."
+  - "You can rare steal more Ice Shields from Numb Blades here, if you have a use for them. Stokker in here may be one, but there's probably not another one."
+  - "Especially when Gorgimera in the Void have a rare steal Aegis Shield instead for the same amount of effort."
   Beastmaster:
-  - "If you're coming here for other reasons anyway, the Beast Killer whip can do a lot in a few fights later."
+  - "If you're coming here for other reasons anyway, the Beast Killer whip (8x damage vs Magical Beasts) is pretty good for a few later fights."
