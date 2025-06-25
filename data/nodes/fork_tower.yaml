@@ -9,13 +9,14 @@ Fork Tower:
   - "If you don't need specific loot from Fork Tower, the Deep Sea Trench, or Istory Falls, and you don't have to unlock Cannoneer, Gladiator, or Oracle, you should just go to the Rift now."
   - "Magic users go to the LEFT and physical fighters go to the RIGHT."
   Break-Rods:
-  - "Many rod-using parties can take good advantage of the Wonder Wand in Fork Tower, especially if they lack !White."
+  - "Rod-using parties can take good advantage of the Wonder Wand in Fork Tower, especially if they lack !White."
   - "It cycles through all the !White and !Black spells in a set order."
   - "This gives rod-users guaranteed access to Berserk, as well as Death, Reflect, Protect, Shell, and others."
   White-Mage:
   - "Fork Tower is the only way to learn Holy, which gives White Mages (fantastic) offense."
   Black-Mage:
   - "Fork Tower is the only way to learn Flare for Black Mages... and honestly, that's not enough of a reason to bother on its own."
+  - "Flare bypasses 31/32 of the target's Magic Defense, but doesn't hit Omega's Lightning weakness. There's not really any other fight that you care about optimizing BLM damage on vs. spamming Rod-boosted Firaga or whatever."
   Mystic-Knight:
   - "Fork Tower is the only way to learn Flare for Flare !Spellblade, which is far better than the spell itself. You should do it."
   Time-Mage:
@@ -26,3 +27,5 @@ Fork Tower:
   - "In case the above didn't make it obvious, your Advance job is locked behind Fork Tower, so it's mandatory for you."
   Mime:
   - "Mime is locked behind Fork Tower, it's mandatory for you."
+  Shield:
+  - "There's a second Aegis Shield in Istory Falls, but if you don't have any other reason to go through Fork Tower and TRULY need more than one, Thief's Knife -> rare steal from Gorgimera in the Void will get them with less of a headache than handling Omniscient."
