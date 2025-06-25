@@ -43,10 +43,9 @@ Twintania:
   - "...Or just use the Assassin's Dagger on the charging form like everyone else."
   White-Mage:
   - "While White Mages can't wield the Assassin's Dagger, the non-charging form is weak to Holy and Reflect bounces the Mega Flare counters."
-  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
   Monk:
-  - "Boy, I hope you don't have four of these, because they're literally useless without someone else's skills here."
-  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Dagger works."
+  - "I hope you don't have four of these, because they're literally useless without some other job's skill to inherit here."
   Oracle:
   - "Oracle can't wield the Assassin's Dagger."
-  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters."
+  INTERSECTION White-Mage Monk Oracle:
+  - "If you have nothing but White Mages, Monks and Oracles, break out the Coral Rings to survive Tidal Wave counters. Otherwise, the Assassin's Dagger will still work."
