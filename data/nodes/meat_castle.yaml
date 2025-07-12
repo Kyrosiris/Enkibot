@@ -4,7 +4,7 @@ Exdeath's Castle:
     next-node: scrubamesh
     previous-nodes:
     - seal_crystals
-  Staff:
+  UNION Staff NOT White-Mage:
   - "To save yourself time in world 3 and open up some Triple Crown options, farm a Power Staff drop from Black Warlocks."
   - "It casts Berserk on hit, which has a number of obscure but quite useful applications. Especially on Shinryu."
   UNION Staff Thief:
@@ -13,20 +13,20 @@ Exdeath's Castle:
   - "Shield-users will appreciate the Ice Shield in a chest here... or at least they would, if not for the Aegis Shield."
   - "Still, if you have multiple shield-users, it's the next best option so far."
   Blue-Mage:
-  - "Magic Dragons cast three Blue Magic spells you theoretically could have, but may have missed."
+  - "Magic Dragons cast three Blue Magic spells you theoretically could have now, but may have missed."
   - "Aeroga, Off-Guard, and Level 2 Old were all annoying to obtain the first time around, if even possible for your team."
-  - "On GBA, quicksaving on floor 4 will give you an uncommon encounter with three Magic Dragons and some trash, to up your odds."
-  - "Without prior confusion access, using Tempting Tango from the Dancing Dagger on a Hellraiser is your first chance to get White Wind as well."
+  - "On GBA, quicksaving on floor 4 will give you an uncommon encounter with three Magic Dragons (and some trash)."
+  - "Without prior Confuse access, hitting a Hellraiser with Tempting Tango from the Dancing Dagger is your first chance to learn White Wind."
   Time-Mage:
   - "Float will let you safely get over the lava in the castle, which is nice and convenient! Just remember using a Tent or Cottage will remove it."
   Geomancer:
   - "Having a Geomancer lets you avoid the damage from the lava. With how large the damage is, it almost makes having the class completely worth it for the whole run."
   Ranger:
-  - "You'll have to walk through the lava to get the Hayate Bow here. Consider Quicksave to do it safely on GBA without Time or Geo. Even without that, it's worth it."
+  - "You'll have to walk through lava to get the Hayate Bow. Consider Quicksave to dodge encounters if on GBA without Time Mage (for Float) or Geomancer (to avoid damage). Even without that, it's worth it."
   UNION Ranger Berserker:
   - "...Especially if you put Equip Bows on a Berserker and give it to them."
   Knight:
-  - "The Icebrand isn't very good, but in conjuction with your new Ice Shield it lets your Knight heal themselves."
+  - "The Icebrand isn't very good, but in conjunction with your new Ice Shield it lets your Knight heal themselves."
   INTERSECTION Ninja Thief:
   - "Ninjas and Thieves will appreciate the Twin Lance weapon in a chest near the end, especially if it's your best Chicken Knife option."
   Summoner:
