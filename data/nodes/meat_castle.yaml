@@ -4,7 +4,7 @@ Exdeath's Castle:
     next-node: scrubamesh
     previous-nodes:
     - seal_crystals
-  UNION Staff NOT White-Mage:
+  Staff:
   - "To save yourself time in world 3 and open up some Triple Crown options, farm a Power Staff drop from Black Warlocks."
   - "It casts Berserk on hit, which has a number of obscure but quite useful applications. Especially on Shinryu."
   UNION Staff Thief:
