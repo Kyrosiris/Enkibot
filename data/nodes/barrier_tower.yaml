@@ -8,34 +8,38 @@ Barrier Tower:
   - "Almost every party should farm Reflect Knights for their Reflect Ring drops here. You'll likely need them for World 2 Exdeath."
   - "The best place to farm them is outside between floors 5 and 6, but if you need to return to the sub to heal frequently the balcony between 3 and 4 is pretty good too."
   INTERSECTION Black-Mage Blue-Mage Red-Mage Summoner Time-Mage White-Mage:
-  - "Since you have a caster job, make sure to get the Gold Hairpin in a trapped chest on the left side of Floor 9, which halves MP consumption for the wearer."
+  - "Since you have a caster job, make sure to also get the Gold Hairpin in a trapped chest on the left side of Floor 9. It cuts the wearer's MP consumption in half."
   UNION Ranger Knight:
-  - "Blood Sword is usually useless thanks to low damage and hit rate, but !Rapid Fire always hits and does the full damage with all 4 attacks."
+  - "Blood Sword is usually useless thanks to its low damage and hit rate, but !Rapid Fire always hits and does the full damage with all 4 attacks."
   UNION Ranger Freelancer:
-  - "Blood Sword is usually useless thanks to low damage and hit rate, but !Rapid Fire always hits and does the full damage with all 4 attacks."
-  - "With just Ranger stats, it's probably the best weapon in World 2. With a good magic stat, it's competing with Excalibur."
+  - "Blood Sword is usually useless thanks to its low damage and hit rate, but !Rapid Fire always hits and does the full damage with all 4 attacks."
+  - "With just Ranger stats, it's probably the best weapon in World 2. If you also have a good magic stat passed to your Freelancer, it's competitive with Excalibur."
   Blue-Mage:
-  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility since it requires targets to be vulnerable to both Sleep and Old... unless you're on Pixel, in which case it can only inflict the vulnerable one just fine."
+  - "Blue Mages can learn Time Slip from Travelers, though it's of somewhat limited utility since it requires targets to be vulnerable to both Sleep and Old"
+  - "...unless you're on Pixel, in which case Time Slip will inflict the single status that the target is vulnerable to rather than getting blocked by a single immunity. This is much better. You probably want it."
   - "Level Trickers can cast Level 4 Graviga here, if you missed it from Ronka. But it's useless, so whatever."
   Thief:
-  - "Thieves can rare steal Flame Rings from the Red Dragons in the Gold Hairpin and Blood Sword chests."
-  - "Remember, you can flee from a monster-in-a-box to reset the encounter if your steal fails."
-  - "...or if you're crazy and want 4 of them, or even more to sell for gil, all while grinding out escapes for the Chicken Knife."
+  - "Thieves can rare !Steal Flame Rings from the Red Dragons in the Gold Hairpin and Blood Sword chests."
+  - "Remember, you can flee from a monster-in-a-box to reset the encounter if you get the common !Steal item instead of the rare one."
+  - "...or if you're crazy and want 4 of them (or even more to sell for gil)."
   White-Mage:
-  - "You have access to the spell Reflect. You can skip Reflect Rings if you want. I would recommend one to make your life easier against Catastrophe, but there's no mandatory reason to."
+  - "You have access to the spell Reflect, though that has a duration. You can skip Reflect Rings if you want. I would recommend one to make life marginally easier against Catastrophe, but there's no need."
   Blue-Mage`:
   - "You will have access to Level 2 Old -> Level 5 Death to one-shot W2 Exdeath, so you can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
   Summoner:
-  - "You get Carbuncle before you will need Reflect, so you don't need Reflect Rings if you're feeling bold. That said, you might want one to make Catastrophe even more trivial."
+  - "You get Carbuncle before you need Reflect, so you don't need Reflect Rings if you're feeling bold. That said, you might want one to make Catastrophe even more trivial."
   Beastmaster:
-  - "You have !Release to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe."
+  - "You have !Release to kill W2 Exdeath, and can safely skip Reflect Rings altogether. Maybe get one for Catastrophe, since !Release is a lousy (if functional) source of Float."
   Chemist:
-  - "Since you have Chemist, you don't need Reflect Rings for W2 Exdeath, though they're still nice. Be sure to get one if you're going to go toe-to-toe with Omega via !Mix."
+  - "Since you have Chemist, you don't need Reflect Rings for W2 Exdeath, though they're still nice.
+  - "Be sure to get one if you're going to use !Mix to go toe-to-toe with Omega! That's mandatory."
   Black-Mage:
-  - "Drain bypasses Reflect, so you can farm your first Reflect Ring with Drain and then bounce Breaks off your own party for the rest."
+  - "Drain bypasses Reflect, so you can farm your first Reflect Ring with Drain and then bounce Breaks off your own party to speed up the rest."
   Thief`:
   - "No point in Thieves farming Reflect Rings here. You can steal one from Carbuncle plus three from Reflect Mages more easily."
   Mystic-Knight:
   - "You can kill Reflect Knights with Break Blade. Reflect Rings are easy for you!"
   Time-Mage:
   - "You can kill Reflect Knights with Comet. Reflect Rings are not very difficult for you!"
+  Bard:
+  - "Like many encounters, the Reflect Knights are not immune to Romeo's Ballad. Just Stop and murder. Not so bad."
