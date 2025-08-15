@@ -20,7 +20,8 @@ Version Differences:
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, this is atrocious for you."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
-  - "On Pixel, you can't run away from the Ramuh fight, denying you an easy source of infinite W1 Hi-Potions. This will actually matter if you have no other good job before the Earth Crystal."
+  - "On Pixel, you can't run away from the Ramuh fight, denying you an easy source of infinite W1 Hi-Potions. This actually matters if you have no other good job before the Earth Crystal."
+  - "On Pixel, Twin Lance + !Mug attempts to steal twice. This is pretty nice. (Other versions unknown.)"
   Monk:
   - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   Blue-Mage:
@@ -61,8 +62,6 @@ Version Differences:
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
-  UNION Ninja Thief:
-  - "Twin Lance + !Mug attempts to steal twice on Pixel. Other versions unknown. Useful for spamming steal attempts from chests, though you don't have Twin Lance before Barrier Tower."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   - "Some(?) !Mixes are newly blockable on Pixel. Death Potion is still not. Succubus Kiss is also unblockable AND doesn't provoke counters to boot, so you can murder Omega and Omniscient with even more ease than before."
