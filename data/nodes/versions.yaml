@@ -16,14 +16,23 @@ Version Differences:
   - "Due to unspecified formula changes, all-target magic spells deal more damage on Matrix. This makes farming (especially statues) slightly easier. Uncertain about Pixel."
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
   White-Mage:
-  - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
+  - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, this is atrocious for you."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
   - "On Pixel, you can't run away from the Ramuh fight, denying you an easy source of infinite W1 Hi-Potions. This actually matters if you have no other good job before the Earth Crystal."
   - "On Pixel, Twin Lance + !Mug attempts to steal twice. This is pretty nice. (Other versions unknown.)"
   Monk:
-  - "On Matrix, !Kick works at full power from the back row. It is also no longer boosted by Kaiser Knuckles, but you weren't wearing those anyway."
+  - "In Matrix, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
+  - "On Matrix and Pixel, !Kick works at full power from the back row."
+  - "In Pixel, !Kick now takes into account the power of whatever weapon you have equipped and ignores whatever properties it has. This is extremely useful, provided they have access to a good Equip ability..."
+  - "...AND the Kaiser Knuckles boost that power further, but you probably still weren't wearing those anyway."
+  UNION Monk Knight:
+  - "Because !Kick ignores all properties of the equipped weapon, Excalipoor is counted as a 100 power weapon and gives Monk some pretty good offense if you have Equip Swords by the time you get it."
+  UNION Monk Berserker:
+  - "While !Kick with an axe gives consistent damage, it does not apply the axe's defense-quartering damage formula so it's not quite as strong as you'd think."
+  UNION Monk Dancer:
+  - "Equipping a Ribbon, Rainbow Dress, or Red Slippers will make !Kick always hit on top of using the decent damage from the Man Eater."
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
@@ -31,7 +40,7 @@ Version Differences:
   - "The Matrix and Pixel versions fix 'quickleaking', the glitch where breaking a Venom Rod as your first action on Quick will cause it to tick until you take your second action, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
   Red-Mage:
-  - "On SNES, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
+  - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
   - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly worse against Sandworm, Necrophobe, and NED."
   - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row. This is really bad for NED because it pushes each piece into enrage mode one by one."
@@ -41,7 +50,7 @@ Version Differences:
   Geomancer:
   - "!Gaia results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Mystic-Knight:
-  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much."
+  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much. You can keep an enemy asleep by having two characters repeatedly hitting the same target."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
@@ -55,6 +64,10 @@ Version Differences:
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad. Or !Hide. Yes, they keep singing while hidden."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   - "!Hide doesn't run enemies out of MP on Pixel. They get refunds for anything cast with no targets. Mostly relevant against W2 Exdeath and Omniscient, if at all."
+  - "In Pixel, harps deal double damage to enemies that are always hit by them although it doesn't pierce defense. There are next to no enemies of consequence affected except for Bahamut, Calofisteri, and Omega (but you're better off !Singing)."
+  - "This stacks with the Apollo's Harp's damage bonus against dragons but there are literally no enemies that are weak both to harps and are dragons..."
+  UNION Bard Chemist:
+  - "...unless you !Mix a Dragon's Kiss, but why would you need to do that when you're busy !Singing?"
   UNION Bard Blue-Mage:
   - "Time Slip can trigger the singing glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   UNION Bard Ranger:
@@ -62,6 +75,7 @@ Version Differences:
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
+  - "Equipping a Twin Lance on the mainhand and a Thief Knife on the other will make !Mug procs attempt to steal twice.
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   - "Some(?) !Mixes are newly blockable on Pixel. Death Potion is still not. Succubus Kiss is also unblockable AND doesn't provoke counters to boot, so you can murder Omega and Omniscient with even more ease than before."
@@ -75,10 +89,14 @@ Version Differences:
   - "On Pixel, wearing a Ribbon, a Rainbow Dress, or Red Slippers (not Lamia's Tiara or Man-Eater, just those three) makes that character's physical attacks always hit. Great for Berserkers! Theoretically useful against Omega too, if you can endure the counters."
   Mime:
   - "Pixel added a later-FF style button to switch between party members with full ATB bars. Which is good if you want to !Mimic something in particular."
+  INTERSECTION Ranger Beastmaster Freelancer:
+  - "In Pixel, bows and whips deal double damage to enemies that would always be hit by them although it does not pierce defense. This mostly includes flying enemies but also a handful of bosses, most notably Tree Exdeath."
+  - "This stacks on top of damage bonuses on certain weapons like the Dragon Whisker although this won't come up very much in practice..."
+  UNION Beastmaster Chemist:
+  - "...unless you !Mix a Dragon's Kiss at any of these enemies and hit them with a Dragon Whisker."
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
-  General`:
+  General:
   - "Finally, a few party-agnostic notes:"
-  - "If you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions."
-  - "Magic Lamp Odin won't kill the one vulnerable part of NED on Pixel... except with about a 1% chance per level (minus some unknown constant in the 6-20% range) to 'improperly' use Zantetsuken anyway."
+  - "If you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions. It may be a valid tactic to intentionally kill off and then revive affected party members to reset their stats."
   - "On Pixel, Weight lowers your agility at a ratio of 4 Weight = -1 Agility. On all other versions, it's 8 Weight = -1 Agility. Defense isn't worth the speed loss - even heavy armor jobs should use the lightest armor possible."
