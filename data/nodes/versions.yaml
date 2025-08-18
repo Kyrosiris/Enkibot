@@ -75,7 +75,7 @@ Version Differences:
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
-  - "Equipping a Twin Lance on the mainhand and a Thief Knife on the other will make !Mug procs attempt to steal twice.
+  - "Equipping a Twin Lance on the mainhand and a Thief Knife on the other will make !Mug procs attempt to steal twice."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   - "Some(?) !Mixes are newly blockable on Pixel. Death Potion is still not. Succubus Kiss is also unblockable AND doesn't provoke counters to boot, so you can murder Omega and Omniscient with even more ease than before."
