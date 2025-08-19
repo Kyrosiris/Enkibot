@@ -25,6 +25,7 @@ Version Differences:
   Monk:
   - "In Matrix, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   - "On Matrix and Pixel, !Kick works at full power from the back row."
+  - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula!"
   - "In Pixel, !Kick now takes into account the power of whatever weapon you have equipped and ignores whatever properties it has. This is extremely useful, provided they have access to a good Equip ability..."
   - "...AND the Kaiser Knuckles boost that power further, but you probably still weren't wearing those anyway."
   UNION Monk Knight:
@@ -32,13 +33,16 @@ Version Differences:
   UNION Monk Berserker:
   - "While !Kick with an axe gives consistent damage, it does not apply the axe's defense-quartering damage formula so it's not quite as strong as you'd think."
   UNION Monk Dancer:
-  - "Equipping a Ribbon, Rainbow Dress, or Red Slippers will make !Kick always hit on top of using the decent damage from the Man Eater."
+  - "Equipping a Ribbon, Rainbow Dress, or Red Slippers will make !Kick and !Focus always hit on top of using the decent damage from the Man Eater."
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
   Time-Mage:
   - "The Matrix and Pixel versions fix 'quickleaking', the glitch where breaking a Venom Rod as your first action on Quick will cause it to tick until you take your second action, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
+  Summoner:
+  - "In Pixel Odin will either use Zantetsuken or Gungnir regardless of whether any Heavy enemies are present or not. What he uses seems to be random."
+  - "This only really affects what to use against Omega as it is no longer a consistent source of unaspected damage. Dispelling its Shell and casting a rod-boosted Ramuh does more damage."
   Red-Mage:
   - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
@@ -50,7 +54,8 @@ Version Differences:
   Geomancer:
   - "!Gaia results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Mystic-Knight:
-  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much. You can keep an enemy asleep by having two characters repeatedly hitting the same target."
+  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much. You can keep an enemy asleep by having two characters repeatedly hitting the same target with Sleep Spellblades."
+  - "In Pixel, -aga level !Spellblades still do 4x damage to Heavy targets weak to the relevant element but no longer pierce their physical defense. This shouldn't matter if you're holding the Chicken Knife, but may matter otherwise."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
@@ -64,10 +69,10 @@ Version Differences:
   - "If they sing another stat song, the first song will go away, so you want to do other actions like dealing damage or singing songs like Romeo's Ballad. Or !Hide. Yes, they keep singing while hidden."
   - "This is easiest with a Black or Red Mage buddy that can cast the spell Sleep. Theoretically a reflected Sleep proc from the Sleep Blade would work but... that's unlikely at best."
   - "!Hide doesn't run enemies out of MP on Pixel. They get refunds for anything cast with no targets. Mostly relevant against W2 Exdeath and Omniscient, if at all."
-  - "In Pixel, harps deal double damage to enemies that are always hit by them although it doesn't pierce defense. There are next to no enemies of consequence affected except for Bahamut, Calofisteri, and Omega (but you're better off !Singing)."
+  - "In Pixel, harps deal double damage to enemies that are always hit by them although it doesn't pierce magic defense. There are next to no enemies of consequence affected except for Bahamut, Calofisteri, and Omega (although it is now reflectable!)"
   - "This stacks with the Apollo's Harp's damage bonus against dragons but there are literally no enemies that are weak both to harps and are dragons..."
   UNION Bard Chemist:
-  - "...unless you !Mix a Dragon's Kiss, but why would you need to do that when you're busy !Singing?"
+  - "...unless you !Mix a Dragon's Kiss which will end up doing huge, but not magic defense-ignoring damage."
   UNION Bard Blue-Mage:
   - "Time Slip can trigger the singing glitch but it will Old your Bard, so take that into consideration. Also make sure they aren't immune to Old or Time Slip will fail entirely!"
   UNION Bard Ranger:
@@ -89,14 +94,19 @@ Version Differences:
   - "On Pixel, wearing a Ribbon, a Rainbow Dress, or Red Slippers (not Lamia's Tiara or Man-Eater, just those three) makes that character's physical attacks always hit. Great for Berserkers! Theoretically useful against Omega too, if you can endure the counters."
   Mime:
   - "Pixel added a later-FF style button to switch between party members with full ATB bars. Which is good if you want to !Mimic something in particular."
-  INTERSECTION Ranger Beastmaster Freelancer:
-  - "In Pixel, bows and whips deal double damage to enemies that would always be hit by them although it does not pierce defense. This mostly includes flying enemies but also a handful of bosses, most notably Tree Exdeath."
-  - "This stacks on top of damage bonuses on certain weapons like the Dragon Whisker although this won't come up very much in practice..."
+  INTERSECTION Ranger Beastmaster Berserker Freelancer:
+  - "In Pixel, bows, whips, and the Thor's Hammer deal double damage to enemies that would always be hit by them although it does not pierce defense. This mostly includes flying enemies but also a handful of bosses, most notably Tree Exdeath."
+  - "This stacks on top of damage bonuses on certain weapons like the Artemis Bow although this won't come up very much in practice..."
   UNION Beastmaster Chemist:
+  - "...unless you !Mix a Dragon's Kiss at any of these enemies and hit them with a Dragon Whisker."
+  UNION Freelancer Chemist:
   - "...unless you !Mix a Dragon's Kiss at any of these enemies and hit them with a Dragon Whisker."
   INTERSECTION Cannoneer Oracle Gladiator:
   - "If you have an Advance job, play GBA. Duh."
-  General:
+  Generic`:
   - "Finally, a few party-agnostic notes:"
   - "If you lose levels to Dischord/Old, and then die, and then get resurrected, those levels come back in Pixel, but not the other versions. It may be a valid tactic to intentionally kill off and then revive affected party members to reset their stats."
   - "On Pixel, Weight lowers your agility at a ratio of 4 Weight = -1 Agility. On all other versions, it's 8 Weight = -1 Agility. Defense isn't worth the speed loss - even heavy armor jobs should use the lightest armor possible."
+  - "In Pixel for some reason, weapons that increase Magic will also increase Weight by the same amount. For example a Blood Sword's +5 Magic also gives +5 Weight. The Mage Masher, Enhancer, and Rune Axe are exceptions and have no Weight." 
+  - "Incremental/decremental effects tick a lot slower in Pixel. This particularly affects Bard songs, Old level loss, Sap damage, and Doom countdown timers."
+  - "Weapons that deal magic-based damage such as the Apollo's Harp, Blood Sword, and most staves, are reflectable in Pixel."
