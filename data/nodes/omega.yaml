@@ -29,7 +29,7 @@ Omega:
   - "On GBA, Omega is vulnerable to being stopped by !Calm."
   - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
   - "Beastmasters can release Yellow Dragons for 9999 each."
-  - "Crystal Dragons use Strong Fight in Pixel whcih also does 9999 and are more common encounters in the Void (23%) than Yellow Dragons (6%) in the Dimension Castle."
+  - "Crystal Dragons use Strong Fight in Pixel which also does 9999 and are more common encounters in the Void (23%) than Yellow Dragons (6%) in the Dimension Castle."
   Time-Mage:
   - "Time Mages can use the 'quickleak' technique (Quick+use Venom Rod+sit there with second action prompt up) to kill Omega very, very slowly on everything but Pixel."
   - "Since this takes a few real-life hours, you may not want to attempt this on an actual physical SNES/GBA/iDevice."
@@ -59,8 +59,8 @@ Omega:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   - "Even with !Jump, this will take ages. Consider not doing it."
   Summoner:
-  - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
-  - "Ramuh will deal more damage if you can Dispel the auto-Shell on Omega in Pixel. Use a Wonder Wand if you have to."
+  - "Summoners can either hit Omega's weakness with a rod-boosted Ramuh or deal unaspected damage with Odin."
+  - "Since Odin can randomly attempt Zantetsuken in Pixel, Ramuh will deal more, consistent damage if you can Dispel the auto-Shell first. Use a Wonder Wand if you have to."
   INTERSECTION Knight Red-Mage Gladiator: 
   - "Anyone who can use a sword can technically damage Omega with the Coral Sword."
   UNION Ninja Dancer:
