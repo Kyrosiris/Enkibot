@@ -9,15 +9,27 @@ Omega:
   - "To pull this off at a sane level, you need both a way to neuter its offense and a way to actually deal damage."
   - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally..."
   - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
+  - "In Pixel, you can Dispel its Shell but NOT its Reflect."
+  - "If you're going to rely on magic damage that doesn't pierce its huge magic defense, you'll need WHM, a Judgment Staff, or a Wonder Wand to remove its Shell."
   Bard:
   - "Omega is vulnerable to being stopped by Romeo's Ballad. (Except on Matrix.)"
   - "Two hasted Bards can keep a full lock going while a third sings your speed up to 99."
   - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
   - "Then attack without fear of counterattacks."
+  INTERSECTION Freelancer Bard:
+  - "In Pixel, the Apollo's Harp will always hit Omega and deal double damage but since it is a magic-based attack, it will be Reflected back at you."
+  - "Even if you could Reflect it back, it'll do pitiful damage even with Omega's Shell dispelled since it doesn't pierce its magic defense..."
+  UNION Bard Chemist:
+  - "...but if you !Mix Dragon's Kiss onto Omega, the harp weakness damage will stack with the Dragon-effectiveness damage and it will do HUGE damage."
+  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. This may save you some Turtle Soup !Mixes along the way."
+  UNION Freelancer Chemist:
+  - "...but if you !Mix Dragon's Kiss onto Omega, the harp weakness damage will stack with the Dragon-effectiveness damage and it will do HUGE damage, especially if a good magic stat is passed onto your Freelancer."
+  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. This may save you some Turtle Soup !Mixes along the way."
   Beastmaster:
   - "On GBA, Omega is vulnerable to being stopped by !Calm."
   - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
   - "Beastmasters can release Yellow Dragons for 9999 each."
+  - "Crystal Dragons use Strong Fight in Pixel whcih also does 9999 and are more common encounters in the Void (23%) than Yellow Dragons (6%) in the Dimension Castle."
   Time-Mage:
   - "Time Mages can use the 'quickleak' technique (Quick+use Venom Rod+sit there with second action prompt up) to kill Omega very, very slowly on everything but Pixel."
   - "Since this takes a few real-life hours, you may not want to attempt this on an actual physical SNES/GBA/iDevice."
@@ -33,12 +45,14 @@ Omega:
   - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."
   Black-Mage:
   - "Black Mages can reflect a Thundaga off allies to bypass Omega's innate Reflect."
+  - "If you're on Pixel, make sure you Dispel its Shell to increase your damage output. Use the Wonder Wand if you must."
   - "On SNES and GBA, reflecting off 3 allies and hitting the fourth (ideally someone with Diamond Armor on to take less damage) won't trigger Omega's brutal counters."
   Blue-Mage:
   - "Blue Mages can chip Omega down with 1000 Needles and heal through the counterattacks with White Wind (and Mighty Guard)."
   - "This is awful, but technically feasible."
   Mystic-Knight:
   - "Thundaga !Spellblade does a lot of damage to Omega. 4x attack, ignores defense... and still misses a lot if you don't have another way to guarantee that you hit."
+  - "In Pixel, Thundaga !Spellblade still does 4x attack but doesn't pierce defense, so be sure to equip the Chicken Knife if you weren't already holding it."
   Ranger:
   - "!Rapid Fire ignores defense and never misses. It does however, cause 2 counterattacks. (4 in Pixel! Watch out!)"
   Dragoon:
@@ -46,7 +60,7 @@ Omega:
   - "Even with !Jump, this will take ages. Consider not doing it."
   Summoner:
   - "Summoners can penetrate Omega's defenses with either Ramuh or Odin."
-  - "Odin will deal more damage unless you can Dispel the auto-Shell on Omega."
+  - "Ramuh will deal more damage if you can Dispel the auto-Shell on Omega in Pixel. Use a Wonder Wand if you have to."
   INTERSECTION Knight Red-Mage Gladiator: 
   - "Anyone who can use a sword can technically damage Omega with the Coral Sword."
   UNION Ninja Dancer:
