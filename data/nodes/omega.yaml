@@ -16,7 +16,7 @@ Omega:
   - "Two hasted Bards can keep a full lock going while a third sings your speed up to 99."
   - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
   - "Then attack without fear of counterattacks."
-  INTERSECTION Freelancer Bard:
+  INTERSECTION Bard Freelancer:
   - "In Pixel, the Apollo's Harp will always hit Omega and deal double damage but since it is a magic-based attack, it will be Reflected back at you."
   - "Even if you could Reflect it back, it'll do pitiful damage even with Omega's Shell dispelled since it doesn't pierce its magic defense..."
   UNION Bard Chemist:
@@ -42,16 +42,7 @@ Omega:
   - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
   - "Hint: Start by !Mixing five Turtle Soups to drop Omega's defense and magic defense to 1 each."
   Pierce-Def:
-  - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."
-  Monk:
-  - "Equipping Kaiser Knuckles makes all of your bare-handed attacks pierce Omega's defense in Pixel. Provided you can actually land any hits."
-  UNION Monk Ranger:
-  - "But if you have !Rapid Fire AND Kaiser Knuckles on your Monk then you will not only land all of 8 of your punches, but suffer no damage penalty on each of them!"
-  UNION Monk Dancer:
-  - "If you also have a Ribbon or Rainbow Dress equipped on your Monk, then you will always hit Omega but somehow you'll lose your defense piercing ability and do no damage."
-  - "!Dance still works with Kaiser Knuckles, and Sword Dance guarantees a hit if you can roll it."
-  Monk`:
-  - "Since you're giving up Hermes Sandals for Kaiser Knuckles, make sure you have another source of Haste for your Monk." 
+  - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."  
   Black-Mage:
   - "Black Mages can reflect a Thundaga off allies to bypass Omega's innate Reflect."
   - "If you're on Pixel, make sure you Dispel its Shell to increase your damage output. Use the Wonder Wand if you must."
@@ -64,6 +55,9 @@ Omega:
   - "In Pixel, Thundaga !Spellblade still does 4x attack but doesn't pierce defense, so be sure to equip the Chicken Knife if you weren't already holding it."
   Ranger:
   - "!Rapid Fire ignores defense and never misses. It does however, cause 2 counterattacks. (4 in Pixel! Watch out!)"
+  UNION Ranger Monk:
+  - "In Pixel, if you have !Rapid Fire and Kaiser Knuckles equipped on your Monk then you will not only land all of 8 of your punches, but suffer no damage penalty on each of them!"
+  - "The piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks." 
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   - "Even with !Jump, this will take ages. Consider not doing it."
