@@ -25,7 +25,7 @@ Version Differences:
   Monk:
   - "In Matrix, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   - "On Matrix and Pixel, !Kick works at full power from the back row."
-  - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula!"
+  - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula and generally helpful against other bosses."
   - "In Pixel, !Kick now takes into account the power of whatever weapon you have equipped and ignores whatever properties it has. This is extremely useful, provided they have access to a good Equip ability..."
   - "...AND the Kaiser Knuckles boost that power further, but you probably still weren't wearing those anyway."
   UNION Monk Knight:
@@ -35,11 +35,9 @@ Version Differences:
   UNION Monk Dancer:
   - "Equipping a Ribbon, Rainbow Dress, or Red Slippers will make !Kick and !Focus always hit on top of using the decent damage from the Man Eater."
   Monk`:
-  - "Speaking of the Kaiser Knuckles, they've been SERIOUSLY buffed in Pixel. In addition to buffing !Kick damage again, they enable all bare-handed attacks to pierce enemy defense. Whoa."
+  - "Speaking of the Kaiser Knuckles, they buff !Kick damage again in Pixel."  
   UNION Monk Ranger:
-  - "But that's not all, a Monk equpping the Kaiser Knuckles will do full power with each of their 8 hits when using !Rapid Fire!"
-  UNION Monk Dancer`:
-  - "Be careful though, equipping a Ribbon or Rainbow Dress will make all of your hits land, but you'll lose the defense piercing capabilities for some weird reason."
+  - "But that's not all, a Monk equpping the Kaiser Knuckles will do full power with each of their 8 bare-handed hits when using !Rapid Fire! This matters a lot against high defense enemies but you have to give up your Hermes Sandals for it."
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
