@@ -59,8 +59,8 @@ Version Differences:
   Geomancer:
   - "!Gaia results are level-independent on Matrix, but not any of the three versions you can actually buy."
   Mystic-Knight:
-  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much. You can keep an enemy asleep by having two characters repeatedly hitting the same target with Sleep Spellblades."
-  - "In Pixel, -aga level !Spellblades still do 4x damage to Heavy targets weak to the relevant element but no longer pierce their physical defense. This shouldn't matter if you're holding the Chicken Knife, but may matter otherwise."
+  - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much." 
+  - "You can keep an enemy asleep by having two characters repeatedly hitting the same target with Sleep Spellblades."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
