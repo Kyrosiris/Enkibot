@@ -17,13 +17,14 @@ Version Differences:
   - "As a trade-off, you can no longer all-target Thundaga on your own party and reflect 3/4 of it onto Omega to bypass its counterattacks. If this is your Omega plan, play SNES or GBA."
   White-Mage:
   - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you have Protect anyway, so don't let it be the tiebreaker over your personal preference."
+  - "Casting Esuna on a character with Old will immediately revert all level/stat loss in Pixel. This improves the Soul Cannon fight quite a bit!"
   Thief:
   - "On Matrix, Liquid Flame is in the back row, halving all attack damage. If you only have Thieves before the Fire Crystal, this is atrocious for you."
   - "On Matrix and Pixel, you can run even faster with a Thief, stacking with the existing sprint button. Gotta go fast."
   - "On Pixel, you can't run away from the Ramuh fight, denying you an easy source of infinite W1 Hi-Potions. This actually matters if you have no other good job before the Earth Crystal."
   - "On Pixel, Twin Lance + !Mug attempts to steal twice. This is pretty nice. (Other versions unknown.)"
   Monk:
-  - "In Matrix, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
+  - "In Matrix only, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   - "On Matrix and Pixel, !Kick works at full power from the back row."
   - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula and generally helpful against other bosses."
   - "In Pixel, !Kick now takes into account the power of whatever weapon you have equipped and ignores whatever properties it has. This is extremely useful, provided they have access to a good Equip ability..."
@@ -45,7 +46,7 @@ Version Differences:
   - "The Matrix and Pixel versions fix 'quickleaking', the glitch where breaking a Venom Rod as your first action on Quick will cause it to tick until you take your second action, so you lose your free Triple Crown."
   - "On SNES, Meteor can hit dummy targets. This makes the final boss harder, because there are two. You want to be on GBA if Time Mage is your best offense for NED."
   Summoner:
-  - "In Pixel Odin will either use Zantetsuken or Gungnir regardless of whether any Heavy enemies are present or not. What he uses seems to be random."
+  - "In Pixel, !Summoned Odin will either use Zantetsuken or Gungnir regardless of whether any Heavy enemies are present or not. What he uses seems to be random."
   - "This only really affects what to use against Omega as it is no longer a consistent source of unaspected damage. Dispelling its Shell and casting a rod-boosted Ramuh does more damage."
   Red-Mage:
   - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
@@ -84,7 +85,7 @@ Version Differences:
   Ninja:
   - "If you don't have a better Chicken Knife user, Dual Wielding a Twin Lance in the mainhand will disable the !Flee proc on SNES and GBA, but not Matrix/Pixel."
   - "If you do have a better Chicken Knife user, the Dancing Dagger's Sword Dance proc triggers a Dance from both weapons, not just one, on Matrix/Pixel."
-  - "Equipping a Twin Lance on the mainhand and a Thief Knife on the other will make !Mug procs attempt to steal twice."
+  - "In Pixel, equipping a Twin Lance on the mainhand and a Thief Knife on the other will make !Mug procs attempt to steal twice."
   Chemist:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   - "Some(?) !Mixes are newly blockable on Pixel. Death Potion is still not. Succubus Kiss is also unblockable AND doesn't provoke counters to boot, so you can murder Omega and Omniscient with even more ease than before."
