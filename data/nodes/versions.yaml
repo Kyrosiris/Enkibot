@@ -34,6 +34,10 @@ Version Differences:
   - "While !Kick with an axe gives consistent damage, it does not apply the axe's defense-quartering damage formula so it's not quite as strong as you'd think."
   UNION Monk Dancer:
   - "Equipping a Ribbon, Rainbow Dress, or Red Slippers will make !Kick and !Focus always hit on top of using the decent damage from the Man Eater."
+  Monk`:
+  - "Speaking of the Kaiser Knuckles, they've been SERIOUSLY buffed in Pixel. In addition to buffing !Kick damage again, they enable all bare-handed attacks to pierce enemy defense. Whoa."
+  UNION Monk Ranger:
+  - "But that's not all, a Monk equpping the Kaiser Knuckles will do full power with each of their 8 hits when using !Rapid Fire!"  
   Blue-Mage:
   - "Vampire is bugged on GBA to deal/restore your entire missing health, rather than half. Big improvement!"
   - "On Pixel, being immune to Old doesn't prevent Time Slip from inflicting Sleep. Better against Atomos, for one."
