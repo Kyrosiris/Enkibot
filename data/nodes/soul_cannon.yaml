@@ -12,6 +12,8 @@ Soul Cannon:
     - "Wave Cannon deals 50% of the party's max HP and inflicts HP Leak."
     - "The real danger is the Launchers. Each of them has 800 effective HP and can inflict Old. And they're in the back row on Pixel, for some reason."
     - "Try to kill the Launchers quickly to avoid having your whole party delevelled and slowed into uselessness."
+  NOT White-Mage:
+    - "In Pixel, level loss from Old can be reverted by killing off an affected character and reviving them."
   Blue-Mage`:
     - "You can Level 5 Death the Launchers."
   Break-Rods:
@@ -21,8 +23,8 @@ Soul Cannon:
   Ninja:
     - "Thunder scrolls work especially well on Soul Cannon itself."
   White-Mage:
-    - "Parties with !White can get through this slowly by using Esuna to cure Old and healing after Wave Cannons."
-    - "Note that Esuna doesn't undo the level loss caused by Old! Cure the status effect ASAP to minimize the damage."
+    - "Parties with !White can get through this slowly by using Esuna to cure Old and healing after Wave Cannons. In Pixel, this also reverts any level loss."
+    - "Note that in every other version, Esuna doesn't undo the level loss caused by Old! Cure the status effect ASAP to minimize the damage."
   Knight:
     - "Coral Swords hit Soul Cannon's Lightning weakness."
   Geomancer:
