@@ -52,11 +52,13 @@ Omega:
   - "This is awful, but technically feasible."
   Mystic-Knight:
   - "Thundaga !Spellblade does a lot of damage to Omega. 4x attack, ignores defense... and still misses a lot if you don't have another way to guarantee that you hit."
+  - "In Pixel, Thundaga !Spellblade still does 4x damage but no longer pierces Omega's defense. Make sure you're holding the Chicken Knife if you weren't already to get the most out of your damage. Around level 43 with the right Magic stat, you'll still end up hitting 9,999."
+  - "Otherwise, this hits Mystic Knight with an Enhancer hardest as it cuts their damage significantly."
   Ranger:
   - "!Rapid Fire ignores defense and never misses. It does however, cause 2 counterattacks. (4 in Pixel! Watch out!)"
-  UNION Ranger Monk:
+  UNION Monk Ranger:
   - "In Pixel, if you have !Rapid Fire and Kaiser Knuckles equipped on your Monk then you will not only land all of 8 of your punches, but suffer no damage penalty on each of them!"
-  - "The piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks." 
+  - "The piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks and you must give up your Hermes Sandals." 
   Dragoon:
   - "Dragoons can chip away with the Trident, a spear that does lightning damage."
   - "Even with !Jump, this will take ages. Consider not doing it."
