@@ -18,6 +18,8 @@ The Great Pyramid:
   Beastmaster:
   - "You don't have truly good !Catch options in W3 yet, but you can !Release Bulettes for ~4,000 to a single random target."
   - "Four of them would kill both Gargoyles. Three of them clearly will not, so attack each Gargoyle for a little over 1,000 damage each before Releasing, to make sure both Gargoyles die simultaneously."
+  Mystic-Knight:
+  - "You can Sleep !Spellblade both Gargoyles and then continue attacking one at a time. Gargoyles cannot revive each other if they are asleep."
   INTERSECTION Thief Ninja Time-Mage:
   - "You can run from the Zephyrus encounters in here, but only at a very low success rate, so !Flee and !Smoke and the Teleport spell are really good to actually get out of them."
   NOT INTERSECTION Thief Ninja Time-Mage:
@@ -34,3 +36,9 @@ The Great Pyramid:
   - "If you need more, Prototype Island close to Crescent is still around."
   Chemist:
   - "Or you can farm Exdeath's Soul encounters in the Sealed Castle with the Sage's Staff you're about to have a chance to pick up in there."
+  UNION Monk Ranger:
+  - "The monster-in-a-box chest containing the Black Garb in the fifth floor (take the hidden passage to the middle right room) may sometimes have a formation of 3 Steel Fists that can drop a Kaiser Knuckles. You'll care about this only in Pixel."
+  UNION Monk Ranger:
+  - "A Monk with Kaiser Knuckles + !Rapid Fire is an extremely potent combination in this version. If you get the drop here, it'll immediately help out against Melusine for starters."
+  UNION Monk Ranger:
+  - "It may be annoying, but you can try quicksaving/resetting until you get the drop, otherwise you'll have an easier opportunity to farm them later in Istory Falls."
