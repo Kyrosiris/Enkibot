@@ -26,7 +26,7 @@ Version Differences:
   Monk:
   - "In Matrix only, !Kick is not boosted by Kaiser Knuckles, but you weren't wearing those anyway."
   - "On Matrix and Pixel, !Kick works at full power from the back row."
-  - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula and generally helpful against other bosses."
+  - "In Pixel, !Focus has full power from the back row. This is HUGE for Garula and generally helpful against other early bosses."
   - "In Pixel, !Kick now takes into account the power of whatever weapon you have equipped and ignores whatever properties it has. This is extremely useful, provided they have access to a good Equip ability..."
   - "...AND the Kaiser Knuckles boost that power further, but you probably still weren't wearing those anyway."
   UNION Monk Knight:
@@ -61,6 +61,8 @@ Version Differences:
   Mystic-Knight:
   - "On Pixel, Sleep Spellblade wakes up an already-sleeping target. This makes fights where you want to use it more difficult but also doesn't really matter that much." 
   - "You can keep an enemy asleep by having two characters repeatedly hitting the same target with Sleep Spellblades."
+  - "In Pixel, hitting a Heavy target weak to -aga/Holy/Bio !Spellblades will still apply 4x damage but will no longer ignore their defense."
+  - "You probably don't care too much if you have the Chicken Knife, but if you don't you might. This especially matters against Omega."
   Beastmaster:
   - "!Calm is only bugged on GBA, so you lose your free Triple Crown if you use other versions."
   Ranger:
@@ -90,7 +92,7 @@ Version Differences:
   - "The Death Potion !Mix is blockable on Matrix, so Chemists are better on SNES or GBA."
   - "Some(?) !Mixes are newly blockable on Pixel. Death Potion is still not. Succubus Kiss is also unblockable AND doesn't provoke counters to boot, so you can murder Omega and Omniscient with even more ease than before."
   Samurai:
-  - "!Mineuchi is correctly coded on Matrix and Pixel: only half power, but actually will Paralyze. It DOES bypass Chicken Knife procs on Pixel, but DOES NOT on SNES/GBA/Matrix."
+  - "!Mineuchi is correctly coded on Matrix and Pixel: it has a 50% chance to proc Paralyze at half-power and a 50% chance to just do a regular attack. It DOES bypass Chicken Knife procs on Pixel, but DOES NOT on SNES/GBA/Matrix."
   - "You're trading off damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
   Dancer:
