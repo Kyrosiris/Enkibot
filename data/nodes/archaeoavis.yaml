@@ -39,3 +39,5 @@ Archaeoavis:
     - "The Knight attacks for ~1560, then the Aegir inflicts Sap that will kill form 1, bypassing its counter script and ending the fight."
     - "Be sure not to do anything else, because you want to guarantee it dies to Sap."
     - "...unless you're on Pixel, which fixed this. Just use Ronkan Knights instead then. Could use Bandersnatches for forms 2+4 if you prefer."
+  INTERSECTION Beastmaster Ranger Freelancer:
+    - "All forms count as flying which in Pixel means whips and bows deal double damage. You'll really start to notice as its defense decreases."
