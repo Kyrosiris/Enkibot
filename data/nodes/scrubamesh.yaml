@@ -23,7 +23,7 @@ Castlemesh:
   - "!Throw only cares about a weapon's listed power, so it is a powerful weapon to fling in an emergency."
   Blue-Mage:
   - "Goblin Punch makes you do a physical attack that bypasses the fixed damage, never misses, and works from the back row."
-  UNION Monk+Knight:
+  UNION Monk Knight:
   - "In Pixel, a Monk with !Kick and Equip Swords holding an Excalipoor ignores the fixed damage, so you have an amusingly strong offensive, AoE option."
   Beastmaster`: 
   - "You won't care for a long time but if you have a sword-user among your party, it'll make catching Crystelles in the Void much easier for their Mighty Guard !Release."
