@@ -15,3 +15,17 @@ Castlemesh:
   - "Don't forget the Partisan in a chest to the right of the Gilgamesh room. It's the highest-power spear you can get at this point, and also not elemental."
   Ninja:
   - "Don't forget the free Fuma Shuriken in a chest to the right of the Gilgamesh room."
+  Generic`:
+  - "The Excalipoor is a funny joke weapon."
+  - "It has a listed power of 100, but it will always do 1 damage and never miss when used with !Fight and most commands."
+  - "Nonetheless it has a few niche uses, some of which go around its fixed damage if you have the means for it."
+  Ninja`:
+  - "!Throw only cares about a weapon's listed power, so it is a powerful weapon to fling in an emergency."
+  Blue-Mage:
+  - "Goblin Punch makes you do a physical attack that bypasses the fixed damage, never misses, and works from the back row."
+  UNION Monk+Knight:
+  - "In Pixel, a Monk with !Kick and Equip Swords holding an Excalipoor ignores the fixed damage, so you have an amusingly strong offensive, AoE option."
+  Beastmaster`: 
+  - "You won't care for a long time but if you have a sword-user among your party, it'll make catching Crystelles in the Void much easier for their Mighty Guard !Release."
+  Generic``:
+  - "Push comes to shove, you can always equip it in battle to safely knock someone out of sleep/confusion."
