@@ -11,20 +11,28 @@ Omega:
   - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
   - "In Pixel, you can Dispel its Shell but NOT its Reflect."
   - "If you're going to rely on magic damage that doesn't pierce its huge magic defense, you'll need WHM, a Judgment Staff, or a Wonder Wand to remove its Shell."
+  Chemist:
+  - "If you have no other Dispel access for this fight and you had no opportunity in Meatfort, you can use the Thief's Knife to rare steal a Judgment Staff from an Istory Lythos in the grassland northwest of Regole."
+  - "It'll really help increase the damage of your !Mixes."
   Bard:
   - "Omega is vulnerable to being stopped by Romeo's Ballad. (Except on Matrix.)"
   - "Two hasted Bards can keep a full lock going while a third sings your speed up to 99."
   - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
   - "Then attack without fear of counterattacks."
+  Chemist`:
+  - "Chemists can pretty much make themselves invulnerable to every single one of Omega's attacks."
+  - "That's not literally true, since you can still die to two Wave Cannons in a row without a turn of your own to heal in between. But that is literally the only thing that can kill you."
+  - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
+  - "Hint: Start by !Mixing five Turtle Soups to drop Omega's defense and magic defense to 1 each."
   INTERSECTION Bard Freelancer:
   - "In Pixel, the Apollo's Harp will always hit Omega and deal double damage but since it is a magic-based attack, it will be Reflected back at you."
   - "Even if you could Reflect it back, it'll do pitiful damage even with Omega's Shell dispelled since it doesn't pierce its magic defense..."
   UNION Bard Chemist:
   - "...but if you !Mix Dragon's Kiss onto Omega, the harp weakness damage will stack with the Dragon-effectiveness damage and it will do HUGE damage."
-  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. This may save you some Turtle Soup !Mixes along the way."
+  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. With enough Magic on your Bard you do 9,999 damage without needing any Turtle Soup."
   UNION Freelancer Chemist:
   - "...but if you !Mix Dragon's Kiss onto Omega, the harp weakness damage will stack with the Dragon-effectiveness damage and it will do HUGE damage, especially if a good magic stat is passed onto your Freelancer."
-  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. This may save you some Turtle Soup !Mixes along the way."
+  - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. With enough Magic on your Freelancer you do 9,999 damage without needing any Turtle Soup."
   Beastmaster:
   - "On GBA, Omega is vulnerable to being stopped by !Calm."
   - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
@@ -36,11 +44,6 @@ Omega:
   - "Meteor and Comet deal unaspected damage and ignore reflects."
   - "...Unless they roll fantastically high, however, they'll get completely nullified by Omega's sky-high Magic Defense."
   - "Quickleaking is really it for Time Mage without other job's offensive options."
-  Chemist:
-  - "Chemists can pretty much make themselves invulnerable to every single one of Omega's attacks."
-  - "That's not literally true, since you can still die to two Wave Cannons in a row without a turn of your own to heal in between. But that is literally the only thing that can kill you."
-  - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
-  - "Hint: Start by !Mixing five Turtle Soups to drop Omega's defense and magic defense to 1 each."
   Pierce-Def:
   - "Piercing defense is a start - criticals and axes are okay starting ideas if there's no better plan."  
   Black-Mage:
