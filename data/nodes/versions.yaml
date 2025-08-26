@@ -6,6 +6,7 @@ Version Differences:
   - "There are some fairly significant differences in bugs and functionality between the four versions of FFV."
   - "Those versions are 1) SNES [and PS1, and the Project Demi hack] 2) GBA 3) 'Matrix' [the developer of the port, formerly available on iOS, Android, and Steam] and 4) Pixel [console, iOS, Android, and Steam]."
   - "Note that Matrix is not for sale anywhere anymore, which can be a shame for a few specific team comps. In general, you probably want to use something else anyway."
+  - "All Pixel-specific information is accurate as of its most recent patch (1.2.2 on PC/Xbox, 1.2.1 on PS4, 1.2.0 on Switch/iOS/Android)." 
   - "These tips show the applicable ones for your four jobs!"
   Break-Rods:
   - "Pixel seriously buffs rod snapping by removing the multi-target penalty from it, making snapping rods stronger than most summon magic."
@@ -118,3 +119,5 @@ Version Differences:
   - "In Pixel for some reason, weapons that increase Magic will also increase Weight by the same amount. For example a Blood Sword's +5 Magic also gives +5 Weight. The Mage Masher, Enhancer, and Rune Axe are exceptions and have no Weight." 
   - "Incremental/decremental effects tick a lot slower in Pixel. This particularly affects Bard songs, Old level loss, Sap damage, and Doom countdown timers."
   - "Weapons that deal magic-based damage such as the Apollo's Harp, Blood Sword, and most staves, are reflectable in Pixel."
+  - "Consistent with every Final Fantasy Pixel Remaster, party members that are petrified will still gain full EXP and ABP after battles."
+  - "Unlike other Pixel Remasters (notably FF1), petrified party members are still NOT valid targets for enemy attacks."
