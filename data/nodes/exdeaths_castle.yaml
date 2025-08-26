@@ -10,12 +10,17 @@ Dimension Castle:
   NOT Dancer:
   - "The fights with the old men in the downstairs cells that turn into Jura Aevises are optional, and also pointless without a Dancer."
   Dancer:
-  - "If you still need Red Shoes or Rainbow Dresses, there's one of each in the downstairs cells if you fight the Jura Aevises."
+  - "If you still need Red Slippers or Rainbow Dresses, there's one of each in the downstairs cells if you fight the Jura Aevises."
   - "And don't forget the Man-Eater, because it's better than everything else a Dancer can wield that isn't the Chicken Knife."
   UNION Monk Dancer:
   - "Somehow, because you have both Monk and Dancer, you can give the Monk a real weapon, since Equip Ribbons gives Man-Eater access and it's great."
+  - "Ribbon, Rainbow Dress, or Red Slippers will make all your physical attacks and !Kick always hit and ignore enemy evasion in Pixel too."
   UNION Dragoon Dancer:
   - "Despite its sprite, the Man-Eater deals double damage with !Jump like a spear. Except on Pixel, where it doesn't... for some reason. Just be aware."
+  Berserker:
+  - "In the lower left tower is a Thor's Hammer. It's Back Row OK and always hits flying targets, which includes Treedeath."
+  - "You probably care about this more in Pixel where it'll also do double damage to flying targets. Considering picking it up."
+  - "If you have multiple Berserkers, you could also !Steal or Thief's Knife more rare steal Thor's Hammers from Death Claws, but it's probably not necessary." 
   Generic`:
   - "Iron Giants are common in random encounters here. They're worth 10k experience each but are relatively tough."
   - "They have high magic evasion and hit hard, but are non-Heavy and vulnerable to Death and Petrify."
