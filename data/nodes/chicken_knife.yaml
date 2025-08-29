@@ -9,9 +9,38 @@ Did You Get The Chicken Knife?????:
   - "It's in a hidden passage behind the shed next to the Pub in Moore. https://raw.githubusercontent.com/Kyrosiris/Enkibot/refs/heads/master/Chicken_Knife.png"
   - "If you play like I do, the Chicken Knife is probably at 127 power already."
   - "Otherwise, just run away from fights until it is. If you left the Goblin chest in the Tule beginner's house alone, that's ideal."
+  Berserker:
+  - "Be careful if you have an all-Berserker party on SNES: if the knife procs !Flee, the game will softlock! This is fixed in versions from PS1-onward."
   Bard:
   - "Also at this time, don't forget to pick up Mana's Paean on the top floor of the Library. It's very easy to miss this one forever."
+  Generic`:
+  - "So what makes the Chicken Knife so good anyway?"
+  - "It uses its own damage formula that factors Agility in addition to Strength and can be powered up to 127 provided you've run away 254 times over the course of the game, even before you've picked it up."
+  - "This is supposed to be balanced by the fact that when attacking with it, you have a 25% chance to proc !Scram and run away. Or just waste you turn in unrunnable battles!"
+  - "Fortunately there are several ways to safely attack with it and not have to worry about running away:"
+  Thief:
+  - "!Mug does a regular physical attack with no proc and a steal attempt at once."
+  Monk:
+  - "!Focus doesn't proc the knife, but an actual Monk can't take advantage of this."
+  - "Counter also doesn't proc the knife, but again a Monk can't make use of that."
+  Blue-Mage:
+  - "Using Goblin Punch doesn't proc the knife, does a regular physical attack for 0 MP and is also back row OK."
+  Ninja:
+  - "In SNES/GBA only, equipping a Twin Lance on the mainhand and the Chicken Knife on the offhand will never proc it."
+  Ranger:
+  - "!Rapid Fire never procs the knife while also making each hit never miss in the process."
+  - "!Aim also doesn't miss nor proc the knife but you weren't using that unless you're grinding for !Rapid Fire in the first place."
+  Dragoon:
+  - "!Jump doesn't proc the knife but because it's not a spear, you won't get the 2x damage bonus."
+  Dancer:
+  - "!Dance will not proc the knife, even if you roll Sword Dance."
+  Samurai:
+  - "!Mineuchi doesn't proc the Chicken Knife in Pixel only, but you have a 50% chance of doing a half-power hit with a Paralyze proc instead."
+  Gladiator:
+  - "!Bladeblitz ignores the proc and hits every enemy at once for 75% power instead. Keep in mind that it respects enemy rows."
+  Generic``:
+  - "Otherwise without any workarounds, consider the possibility of triggering !Scram when attacking."
   INTERSECTION Knight Freelancer Gladiator:
   - "You could, theoretically, get the Brave Blade and use it. But don't, unless maybe there's a toxx in the thread to raise charity cash."
   INTERSECTION Knight Freelancer:
-  - "That said, on Pixel, you can run at least a few times and the Blade will regenerate to full power..."
+  - "That said in Pixel if the Brave Blade loses power, you can restore 1 power for every 5 consecutive battles you complete without fleeing."
