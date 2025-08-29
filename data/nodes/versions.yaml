@@ -97,6 +97,10 @@ Version Differences:
   - "!Mineuchi is correctly coded on Matrix and Pixel: it has a 50% chance to proc Paralyze at half-power and a 50% chance to just do a regular attack. It DOES bypass Chicken Knife procs on Pixel, but DOES NOT on SNES/GBA/Matrix."
   - "You're trading off damage (on an ability you'll never use) for the ability to paralyze random encounters, Titan, Carbuncle, the Gargoyles, Melusine, Catastrophe, and the Vacuum Wave part of NED."
   - "Those bosses are all heavy (or optional), so the Paralyze will be almost useless, but it is a point to consider, I guess."
+  UNION Samurai Ninja:
+  - "In Pixel if you use !Mineuchi while holding two weapons, each weapon hit has its own 50% chance to proc Paralyze which can help make it a little more consistent."
+  - "That includes each hit of a Twin Lance. If you dual-wield Twin Lances, you basically have 4 coin flips!"
+  - "That said, if you have both Samurai and Ninja you probably don't need to Paralyze-lock anything important."
   Dancer:
   - "Sword Dance does full damage from back row in Pixel. Enjoy being more defensive for free!"
   - "For some reason, !Dance doesn't trigger Omniscient's counters on Pixel. What."
