@@ -53,6 +53,7 @@ Version Differences:
   - "On SNES and Pixel, Bridge Gilgamesh can be Silenced with Silence. This is a very small change, and you do have Protect, so likely don't let it be the tiebreaker over your personal preference."
   Berserker:
   - "On SNES, Berserkers can attack dummy targets. This makes 1-2 Berserker runs significantly worse against Sandworm, Necrophobe, and NED."
+  - "On SNES only, a party of 4 Berserkers cannot run away from battles. This also results in a softlock with Chicken Knife procs. Versions from PS1-onward fix both of these."
   - "On Matrix, Berserkers always attack the default target from selecting 'Attack', typically the first one in the front row. This is really bad for NED because it pushes each piece into enrage mode one by one."
   - "On Matrix and Pixel, Berserkers act independently and don't start battles with empty ATB. This is good."
   - "Basically, GBA/Pixel is down to preference if you only have 1-2 Berserkers. Pixel makes them a little better, but they're still Berserkers, so let your other classes decide."
