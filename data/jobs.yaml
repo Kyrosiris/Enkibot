@@ -74,6 +74,7 @@ Jobs:
   Chemist:
     - Staff
     - Earth
+    - Inflict-Confuse
   Freelancer:
     - Staff
     - Break-Rods
