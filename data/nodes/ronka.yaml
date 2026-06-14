@@ -5,9 +5,11 @@ Ronka Ruins:
   Generic:
     - "Don't hit the speed trap!"
   Chemist:
-    - "This is your last opportunity with all 4 party members to farm Prototypes on the island west of Crescent for Dark Matter."
-    - "You will want a total of 6 if you are Death Potioning every vulnerable boss before the next source of them (the Pyramid in W3) and you already have 1 from Soul Cannon."
-    - "Prototype is vulnerable to Berserk, but you can't set Blind as well without Dragon Fangs. Mostly just kiss it to death."
+    - "If you're Fiesta modding so you have Chemist unlocked already, this is your last opportunity to farm Prototypes on the islands west of Crescent for Dark Matter with all 4 party members present."
+    - "You will want a total of 6 if you want to use Death Potion on every vulnerable boss before the next source of Dark Matter (the Pyramid in W3.) You already have 1 from Soul Cannon, so you want at most 5."
+    - "Prototype is vulnerable to Berserk, but you can't set Blind as well without Dragon Fangs. Just Succubus Kiss it to death."
+  UNION Beastmaster Chemist:
+    - "Beastmaster lets you just !Control them into Self-Destructing instead, regardless of Fiesta mod status."
   INTERSECTION Knight Red-Mage Mystic-Knight Blue-Mage Gladiator Freelancer:
     - "The Ancient Sword in a chest here is a way to inflict Old, which can come in handy for some bosses."
   UNION Dancer Thief:
