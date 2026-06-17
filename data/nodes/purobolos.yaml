@@ -4,7 +4,7 @@ Purobolos:
     previous-nodes: ['archaeoavis']
   Generic:
     - "Quick reminder: if you're on Pixel, you HAVE TO read the note on the right table in the Catapault before going to Tycoon meteorite to talk to Cid."
-    - "1500 HP, 1/3 chance to cast Self-Destruct rather than fighting every third round, each casts Arise to revive the other five when killed."
+    - "Each Purobolos has 1,500 HP and a 1/3 chance to cast Self-Destruct rather than fighting every third round. Each also casts Arise to revive the other five when killed."
     - "The easiest way to handle this is brute force with powerful AOEs to kill them all at once."
   Break-Rods:
     - "Yup, that means rods."
@@ -12,7 +12,7 @@ Purobolos:
     - "Otherwise, whittle them down to low HP, stop, and wait for them to Self-Destruct (1/3 chance every second turn), since they don't cast Arise when they explode."
   Blue-Mage:
     - "If you don't want to just spam rods, Aqua Breath works pretty great here too."
-    - "Alternatively, you can Death Claw them all and then target-all with Aera."
+    - "Alternatively, you can Death Claw them all and then target-all with Aera, but this is definitely slower."
   Samurai:
     - "!Zeninage will get the job done, albeit at a high gil cost because there are six targets."
   Monk:
@@ -20,9 +20,9 @@ Purobolos:
   Ninja:
     - "!Throwing scrolls, especially if you have a magic ability to equip, will make quick work of them."
   Summoner:
-    - "They look like they're Floating, but they're not. Titan away!"
+    - "They look like they're Floating, but they're not. Titan still works!"
   Beastmaster:
-    - "Beastmasters can just !Control each Purobolos and have them Self-Destruct targeted on themselves to avoid Arise."
+    - "Beastmasters can just !Control each Purobolos and have them use Self-Destruct targeting themselves to prevent Arise from getting cast."
   White-Mage:
     - "A Silenced Purobolos will not cast Arise upon death."
   Mystic-Knight:
