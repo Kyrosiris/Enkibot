@@ -9,21 +9,20 @@ Omega:
   - "To pull this off at a sane level, you need both a way to neuter its offense and a way to actually deal damage."
   - "Without cheese but with good sandbagging classes like WHM or BLU, you can try to fight it out normally..."
   - "...but many parties don't even have a way to damage Omega through its 190 defense, 150 magic defense, Reflect, Shell, 7 elemental absorbs, 95% physical evasion, and 90% magic evasion."
-  - "In Pixel, you can Dispel its Shell but NOT its Reflect."
+  - "In Pixel, you can Dispel Omega's Shell, but NOT its Reflect."
   - "If you're going to rely on magic damage that doesn't pierce its huge magic defense, you'll need WHM, a Judgment Staff, or a Wonder Wand to remove its Shell."
   Chemist:
   - "If you have no other Dispel access for this fight and you had no opportunity in Meatfort, you can use the Thief's Knife to rare steal a Judgment Staff from an Istory Lythos in the grassland northwest of Regole."
   - "It'll really help increase the damage of your !Mixes."
+  - "That said, that's all you need it for, because Chemists can make themselves invulnerable to all but one of Omega's attacks."
+  - "You can still die to two Wave Cannons (deals 50% of your max HP) in a row without a turn of your own to heal in between, but that is literally the only thing that can kill you."
+  - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
+  - "Hint: Start by !Mixing five Turtle Soups to drop Omega's defense and magic defense to 1 each."
   Bard:
   - "Omega is vulnerable to being stopped by Romeo's Ballad. (Except on Matrix.)"
   - "Two hasted Bards can keep a full lock going while a third sings your speed up to 99."
   - "After maximizing speed, one Bard can keep lockdown going while the other two sing Hero's Rime and your stat buff song of choice."
   - "Then attack without fear of counterattacks."
-  Chemist`:
-  - "Chemists can pretty much make themselves invulnerable to every single one of Omega's attacks."
-  - "That's not literally true, since you can still die to two Wave Cannons in a row without a turn of your own to heal in between. But that is literally the only thing that can kill you."
-  - "See, for example, sullla's solo Chemist log at http://www.sullla.com/FF/omegashinryuu.html"
-  - "Hint: Start by !Mixing five Turtle Soups to drop Omega's defense and magic defense to 1 each."
   INTERSECTION Bard Freelancer:
   - "In Pixel, the Apollo's Harp will always hit Omega and deal double damage but since it is a magic-based attack, it will be Reflected back at you."
   - "Even if you could Reflect it back, it'll do pitiful damage even with Omega's Shell dispelled since it doesn't pierce its magic defense..."
@@ -34,8 +33,7 @@ Omega:
   - "...but if you !Mix Dragon's Kiss onto Omega, the harp weakness damage will stack with the Dragon-effectiveness damage and it will do HUGE damage, especially if a good magic stat is passed onto your Freelancer."
   - "Make sure you Dispel Omega's Shell with Judgment Staff first to get most out of this damage. With enough Magic on your Freelancer you do 9,999 damage without needing any Turtle Soup."
   Beastmaster:
-  - "On GBA, Omega is vulnerable to being stopped by !Calm."
-  - "Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
+  - "On GBA, Omega is vulnerable to being stopped by !Calm. Three hasted Beastmasters can keep a full lock going while your fourth party member attacks without fear of counterattacks."
   - "Beastmasters can release Yellow Dragons for 9999 each."
   - "Crystal Dragons use Strong Fight in Pixel which also does 9999 and are more common encounters in the Void (23%) than Yellow Dragons (6%) in the Dimension Castle."
   Time-Mage:
@@ -56,9 +54,8 @@ Omega:
   Mystic-Knight:
   - "Thundaga !Spellblade does a lot of damage to Omega. 4x attack, ignores defense... and still misses a lot if you don't have another way to guarantee that you hit."
   - "In Pixel, Thundaga !Spellblade still does 4x damage but no longer pierces Omega's defense. Make sure you're holding the Chicken Knife if you weren't already to get the most out of your damage."
-  - "Around level 43 with the right Magic stat, you'll still end up hitting 9,999. Otherwise, this hits Mystic Knight with an Enhancer hardest as it cuts their damage significantly."
   Ranger:
-  - "!Rapid Fire ignores defense and never misses. It does however, cause 2 counterattacks. (4 in Pixel! Watch out!)"
+  - "!Rapid Fire ignores defense and never misses. However, it also provokes 2 counterattacks per use. (It's 4 counterattacks in Pixel! Watch out!)"
   UNION Monk Ranger:
   - "In Pixel, if you have !Rapid Fire and Kaiser Knuckles equipped on your Monk then you will not only land all of 8 of your punches, but suffer no damage penalty on each of them!"
   - "The piercing ability of !Rapid Fire combined with the Kaiser Knuckles' large boost to your fists results in hefty amounts of damage, although you will suffer 4 counterattacks and you must give up your Hermes Sandals." 
