@@ -11,8 +11,11 @@ Aviation:
   - "The Lamp summons a !Summon when used in battle, starting from the highest level ones and going in descending order until it just makes Chocobos forever."
   - "Examine the waterfall again to recharge the Lamp and restart from the top of its order if you want to use it for multiple bosses. (Or you can recharge it in the Deep Sea Trench if you're going there.)"
   - "Hidden in a forest on an island to the south, you can visit the Phantom Village, with unique magic shops and also buyable Hermes Sandals."
+  - "The Accessory Shop sells Hermes Sandals for 50k gil. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
+  - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them. Sell all your garbage to do so."
+  - "Don't forget the Thief Knife hidden in a barrel behind the bar, which gives every party access to !Steal."
   White-Mage:
-  - "Arise and Dispel are both great, obviously."
+  - "Arise and Dispel are in the magic shop and are both as great as you would expect."
   Black-Mage:
   - "Black Mages get the short end of the stick here, 'only' learning Death and Osmose."
   Time-Mage:
@@ -20,10 +23,6 @@ Aviation:
   Bard:
   - "The eighth and final piano is hidden off to the left behind a secret passage in the basement. Sneaky!"
   - "The composer on Crescent Island will teach you Sinewy Etude once you've played seven pianos, and Hero's Rime once you've played all eight."
-  Generic`:
-  - "The Accessory Shop sells Hermes Sandals for 50k gil. They give permanent Haste (and thus immunity to Slow, Stop, Paralyze, and Sleep) and are easily the best accessory in the game."
-  - "There's a free pair late in the Rift... but still buy all 4 now, rather than waiting, if you can afford them. Sell all your garbage to do so."
-  - "Don't forget the Thief Knife hidden in a barrel behind the bar, which gives every party access to !Steal."
   INTERSECTION Mime Freelancer:
   - "The Thief Gloves from way back in World 1 boost the steal success rate of the Thief Knife !Mug proc. So don't sell those if you want to Steal anything later."
   Summoner:
@@ -49,3 +48,4 @@ Aviation:
   Red-Mage:
   - "While RDM can't summon Phoenix, everything in Phoenix Tower is vulnerable to Toad, and the Magic Pots alone give enough ABP to get halfway to !Dualcast."
   - "The walk up to the final Pot likely beats even Movers in ABP/minute if you're specifically grinding for !Dualcast. Which you might not want to, for your sanity's sake."
+  - "Stingray has a rare steal Rune Blade, but you can get one in Istory Falls if you truly care. And you likely don't. (credit to Darkman425)"
