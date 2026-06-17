@@ -6,19 +6,19 @@ Archaeoavis:
   Generic:
     - "Galuf leaves your party after this fight for a while. Unequip him here or do without what he's wearing for the next few bosses."
     - "Has 5 forms, each with their own HP pool but all with a single shared MP pool."
-    - "The forms have steadily decreasing physical defense and steadily increasing magic defense."
-    - "Form 1 has 1600 HP, is weak to wind, has the highest physical defense, and inflicts Sap."
-    - "Form 2 has 1600 HP, absorbs ice, is not Heavy, and inflicts poison."
-    - "Form 3 has 1600 HP, absorbs fire, and inflicts blind."
-    - "Form 4 has 1600 HP, absorbs lightning, is not Heavy, and inflicts paralysis."
-    - "Form 5 has 2500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm, and literally has 0 physical defense."
+    - "The forms have steadily decreasing physical defense and steadily increasing magic defense:"
+    - "Form 1 has 1,600 HP, is weak to wind, has the highest physical defense, and inflicts Sap."
+    - "Form 2 has 1,600 HP, absorbs ice, is not Heavy, and inflicts poison."
+    - "Form 3 has 1,600 HP, absorbs fire, and inflicts blind."
+    - "Form 4 has 1,600 HP, absorbs lightning, is not Heavy, and inflicts paralysis."
+    - "Form 5 has 2,500 HP, absorbs wind+ice+fire+lightning, has previous attacks and charm, and has literally 0 physical defense."
     - "Magic-heavy teams may have to slowly and painfully knife the last form to death."
+  Pierce-Def:
+    - "Being able to pierce defense, whether with critical hits or axes, will reliably damage all five forms."
   Ninja:
     - "Water Scrolls are solid offense against the first four forms, since none absorb Water."
   Monk:
     - "Killing any form with !Counter will skip the trigger that causes the next form to spawn, ending the fight immediately."
-  Pierce-Def:
-    - "Being able to pierce defense, whether with critical hits or axes, will reliably damage all five forms."
   Time-Mage:
     - "You can land Slow on every form, if you feel like it."
     - "Gravity works on forms 2 and 4."
@@ -35,9 +35,9 @@ Archaeoavis:
     - "Chocobo, your time is now! (It does physical damage, so it works on form 5)."
     - "...Unless you're on the Matrix or Pixel versions, where they 'fixed' that."
   Beastmaster:
+    - "On Pixel, !Release Ronkan Knights - or perhaps Bandersnatches for forms 2+4 if you prefer. On other versions, you can form skip with the Sap bug:"
     - "!Catch an Aegir outside Karnak before coming in here, then !Release a Ronkan Knight from in here, then !Release the Aegir."
     - "The Knight attacks for ~1560, then the Aegir inflicts Sap that will kill form 1, bypassing its counter script and ending the fight."
     - "Be sure not to do anything else, because you want to guarantee it dies to Sap."
-    - "...unless you're on Pixel, which fixed this. Just use Ronkan Knights instead then. Could use Bandersnatches for forms 2+4 if you prefer."
   INTERSECTION Beastmaster Ranger Freelancer:
-    - "All forms count as flying which in Pixel means whips and bows deal double damage. You'll really start to notice as its defense decreases."
+    - "All five forms have the Flying flag, which means whips and bows deal double damage in Pixel. You'll really start to notice as its defense decreases."
