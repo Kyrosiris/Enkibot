@@ -5,7 +5,7 @@ Atomos:
     previous-nodes:
     - barrier_tower
   Generic:
-  - "19997 HP, spams Comet until someone dies, then starts sucking them in."
+  - "19,997 HP. Atomos spams Comet until someone dies, then starts sucking them in (visually moving them leftward every time). If a dead body reaches a specific point, Atomos will suck it in, removing that character from the fight."
   - "You can come in with someone dead to skip the Comets, or just leave one party member dead after them."
   - "Revive your corpse just before they move far enough to the left to get eaten and let Atomos kill someone else to buy more time. This fight is hard to lose."
   Blue-Mage:
@@ -16,7 +16,7 @@ Atomos:
   INTERSECTION Knight Freelancer:
   - "You can attack with the Sleep Blade to put Atomos to sleep, then kill it if you have any magical damage (including rod snaps!) Otherwise, it doesn't really matter."
   Beastmaster:
-  - "!Releasing a Lesser Lopros from the river by the Moogle Village will deal 5000 damage with Breath Wing."
+  - "!Releasing a Lesser Lopros from the river by the Moogle Village will deal 5,000 damage with Breath Wing."
   - "Four of them will kill Atomos."
   - "It's also magical damage, in case you're using Sleep strats and don't have !Catch on everyone yet."
   Generic`:
