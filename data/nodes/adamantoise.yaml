@@ -3,7 +3,7 @@ Adamantoise:
     next-node: soul_cannon
     previous-nodes: ['crayclaw']
   Generic:
-    - "The Adamantoise has 2000 HP, good magic evade, and sky-high physical defenses."
+    - "The Adamantoise has 2,000 HP, good magic evade, and sky-high physical defenses."
     - "It has powerful physical attacks, which you'll want to scam with back-row + mitigation/status aliments."
     - "The hard part is simply managing to get damage past its defenses."
     - "Any source of Ice damage hits its elemental weakness, bypassing its defenses."
