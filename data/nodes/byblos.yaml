@@ -3,7 +3,7 @@ Byblos:
     next-node: after_fireship
     previous-nodes: ['ifrit']
   Generic:
-    - "3600 HP, uses a variety of debilitating spells which make prolonged engagements almost unwinnable."
+    - "3,600 HP. Byblos uses a variety of debilitating spells which make prolonged engagements almost unwinnable."
     - "Also features 'fun' Drain counterattacks and self-Protect."
     - "That combination can make this fight brutal for parties with only physical damage."
   Break-Rods:
@@ -11,10 +11,10 @@ Byblos:
   INTERSECTION Black-Mage Red-Mage:
     - "Or you can just cast Fira a few times if money is tight."
   Knight:
-    - "Knights should rely on Two-Handed in this fight and any other fight where counterattacks are an issue."
+    - "Knights should rely on Two-Handed in this fight - and any other fight where counterattacks are an issue."
   Ninja:
-    - "I hope you got the Flame Scroll drop from Liquid Flame if you don't have a better strategy for doing this."
-    - "You could also have farmed them in the Ship Graveyard all the way back."
+    - "I hope you got the Flame Scroll drop from Liquid Flame if you don't have a better strategy for this fight."
+    - "You could also have farmed them in the Ship Graveyard... or backtrack all the way there to farm them now."
     - "If you're willing to retrace that many steps, they drop from Mindflushers in the room where the World Map was."
   Berserker:
     - "Berserker-heavy teams can have trouble here, because they can trigger Byblos' counters at bad times."
