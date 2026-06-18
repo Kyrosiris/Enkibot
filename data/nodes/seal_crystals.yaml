@@ -5,13 +5,13 @@ Seal Crystals/Guardians:
     previous-nodes:
     - moore
   Generic:
-  - "7777 HP each, not Heavy, 20% magic evasion and level 77 to make it difficult to hit with inaccurate spells."
-  - "Each Crystal switches from attacking to casting a spell at 3000 HP remaining."
+  - "7,777 HP each, not Heavy, 20% magic evasion and level 77 to make it difficult to hit with inaccurate spells."
+  - "Each Crystal switches from only attacking to only casting a spell at 3,000 HP remaining."
   - "The top one casts Firaga, the left Aeroga, the bottom Earth Shaker, and the right Aqua Breath."
-  - "(Remember you can get Float from using the Dancing Dagger's Tempting Tango on Poison Eagles after feeding them an Ether on the bridge screen in Drakenvale.)"
+  - "(Remember, you can get Float from using the Dancing Dagger's Tempting Tango on Poison Eagles after feeding them an Ether on the bridge screen in Drakenvale!)"
   - "Each Crystal also absorbs attacks of its element, and all four nullify Ice/Lightning/Holy/Poison."
   - "In general, avoid all-target attacks unless you think you can kill all affected Crystals in one cycle."
-  - "Parties with reasonable offenses can simply get a Crystal close to 3000 HP and try to kill it quickly."
+  - "Parties with reasonable offenses can simply get a Crystal close to 3,000 HP and try to kill it quickly."
   - "On SNES and GBA, if you can, put Bone Mail on Galuf to save yourself some time in the next fight."
   Blue-Mage:
   - "Death Claw, when it gets through their magic evasion, takes a Crystal down to single-digit HP."
@@ -51,6 +51,8 @@ Seal Crystals/Guardians:
   - "You can blind the Crystals with a Dark Bow, but that's wasted turns that could have been Killer Bow attacks. It's relatively easy, but if you're not dying to the attack damage, don't bother."
   - "If you find you're pushing the Crystals into casting range fishing for Killer Bow procs, reset and let a Mini Magician outside (or your own White or Red Mage if applicable) make you Mini first."
   - "Or just use Hi-Potions on them. That's my preferred strat."
+  Geomancer:
+  - "Leaf Swirl from !Gaia (level 11-20, or 10% on level-independent versions) will blind all four Crystals. That's nice until they start casting spells."
   Generic`:
   - "If you did put Bone Mail on Galuf, and you're on SNES/GBA, have him use a Phoenix Down on himself against Exdeath."
   - "Otherwise, you have to actually deal damage. So don't come in on Healing Staff White Mage or Mini Berserker or something."
