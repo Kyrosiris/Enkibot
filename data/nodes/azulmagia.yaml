@@ -5,7 +5,7 @@ Azulmagia:
     previous-nodes:
     - exdeaths_castle
   Generic:
-  - "27900 HP, casts only !Blue spells."
+  - "27,900 HP, As you might guess from the name, Azulmagia casts only !Blue magic."
   - "Go in with an odd level not divisible by 5 (don't worry about Level 3 Flare) to neuter the Level X spells."
   - "Technically optional, since the fight reward is a save point."
   Break-Rods:
@@ -14,11 +14,11 @@ Azulmagia:
   Mystic-Knight:
   - "Azulmagia is weak to poison, so Bio !Spellblade is the way to go."
   Blue-Mage:
-  - "Your Blue Mage can actually 'teach' Azulmagia new !Blue spells, which will immediately get tested on you."
-  - "You can teach Self-Destruct to end the fight in one round. (And have someone take 9999.)"
-  - "But first, check whether you want to learn anything here."
+  - "Your Blue Mage can 'teach' Azulmagia new !Blue spells, which will immediately get tested on you."
+  - "You can teach Self-Destruct to end the fight in one round. (And have someone take 9,999 damage.)"
+  - "But first, check whether you want to learn anything from Azulmagia's repertoire here."
   - "If your party is divisible by level 3, you have Reflect Rings, and you want an even funnier kill, try teaching Azulmagia Level 3 Flare instead."
   Beastmaster:
-  - "Great Dragon still does 9999 per !Release here."
+  - "Great Dragon still does 9,999 per !Release here."
   White-Mage:
-  - "You can Reflect Azulmagia even without the Wonder Wand. This gives you Float from a Mighty Guard cast if you don't want to muck around with Confuse before Catastrophe."
+  - "You can Reflect Azulmagia even without the Wonder Wand. This gives you Float from a Mighty Guard cast, in case you don't want to mess around getting it with Confuse before Catastrophe."
