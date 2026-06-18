@@ -5,8 +5,8 @@ Antlion:
     previous-nodes:
     - exdeath_w2
   Generic:
-  - "8100 HP, Bartz and Krile only."
-  - "This fight can be a pain with slow offense, since it'll spam Dischord to halve your level repeatedly."
+  - "8,100 HP. You only have Bartz and Krile for this fight."
+  - "Antlion can be a pain with slow offense, since it'll spam Dischord to halve your level repeatedly."
   - "If you're on Pixel, do NOT keep Antlion asleep the entire fight! If it dies when asleep, the script that makes it run away does not activate and it heals to full instead. Repeatedly. So wake it up before you go-go."
   White-Mage:
   - "Berserk (which Antlion is vulnerable to) and Blink combine to make this fight trivial."
@@ -21,7 +21,7 @@ Antlion:
   - "All of Antlion's damage comes from physical attacks. Just use !Guard."
   - "You can also inflict Old with the Ancient Sword if you want to add insult to injury. You probably shouldn't bother."
   Beastmaster:
-  - "If you didn't plan ahead, the only available !Release is 1016 damage from the Goblin in the trapped chest in Tule's training house."
+  - "If you didn't plan ahead, the only available !Release is 1,016 damage from the Goblin in the trapped chest in Tule's training house."
   - "If you genuinely don't have a better option, make sure to grab a spare !Release in W2 rather than four-shotting Exdeath with Yellow Dragons."
   - "...You almost certainly have a better option. Even Whip !Attacks."
   Blue-Mage:
