@@ -7,8 +7,8 @@ The Great Pyramid:
   Generic:
   - "To get in, you'll have to beat two Gargoyles with 5,000 HP each which use physical attacks."
   - "If one is dead when the other gets a turn, it will revive at full HP, so you need to kill both nearly-simultaneously or use debilitating effects."
-  - "Gargoyles are vulnerable to instant death, Sleep, Paralyze, Berserk, Stop, and Slow. (But they're heavy, so Paralyze and Stop don't last long.)"
-  - "For subsequent rematches, you can use the Magic Lamp to run through Bahamut, Leviathan (sadly not Odin) and Syldra for enough AoE damage to usually kill both."
+  - "Gargoyles are vulnerable to instant death, Sleep, Petrify, Paralyze, Berserk, Stop, and Slow. (But they're heavy, so Paralyze and Stop don't last long.)"
+  - "For subsequent rematches, you can use the Magic Lamp to run through Bahamut, Leviathan (sadly, Odin doesn't help) and Syldra for enough AoE damage to usually kill both."
   Blue-Mage:
   - "Blue Mages can use Level 3 Flare to kill both Gargoyles."
   White-Mage:
@@ -20,6 +20,7 @@ The Great Pyramid:
   - "Four of them would kill both Gargoyles. Three of them clearly will not, so attack each Gargoyle for a little over 1,000 damage each before Releasing, to make sure both Gargoyles die simultaneously."
   Mystic-Knight:
   - "You can Sleep !Spellblade both Gargoyles and then continue attacking one at a time. Gargoyles cannot revive each other if they are asleep."
+  - "Alternatively, you can Sleep !Spellblade into Break !Spellblade, since they're not immune to Petrify. Heck, you can just do Break !Spellblade if you coordinate your attacks back-to-back."
   INTERSECTION Thief Ninja Time-Mage:
   - "You can run from the Zephyrus encounters in here, but only at a very low success rate, so !Flee and !Smoke and the Teleport spell are really good to actually get out of them."
   NOT INTERSECTION Thief Ninja Time-Mage:
@@ -28,16 +29,16 @@ The Great Pyramid:
   - "Many of the random encounters in here are Undead, making Requiem very handy."
   Berserker:
   - "The Gaia Hammer, an axe you can find here, has a Quake proc that runs off your magic, so it's very powerful with a mage secondary skill."
-  - "On the SNES only, equipping the Thornlet will underflow a Berserker's Magic to 253, making Quake insanely powerful."
-  - "If you have multiple Berserkers in SNES, you may want to consider coming back with the Thief's Knife to rare steal more Thornlets from Lamia Queens as you can buy more Gaia Hammers in the Phantom Village."
+  - "On SNES only, equipping the Thornlet will underflow a Berserker's Magic to 253, making Quake insanely powerful."
+  - "If you have multiple Berserkers on SNES, you may want to consider coming back with the Thief's Knife to rare steal more Thornlets from Lamia Queens as you can buy more Gaia Hammers in the Phantom Village."
   INTERSECTION Dancer Freelancer:
   - "There's another Ribbon in a chest late in the Pyramid."
   INTERSECTION Chemist Cannoneer:
   - "There are total of six Dark Matters in chests here, which should be enough to get you through the rest of the game."
   - "If you need more, Prototype Island close to Crescent is still around."
   Chemist:
-  - "Or you can farm Exdeath's Soul encounters in the Sealed Castle with the Sage's Staff you're about to have a chance to pick up in there."
+  - "Alternatively, you can farm Exdeath's Soul encounters in the Sealed Castle with the Sage's Staff you're about to have a chance to pick up in there."
   UNION Monk Ranger:
-  - "The monster-in-a-box chest containing the Black Garb in the fifth floor (take the hidden passage to the middle right room) may sometimes have a formation of 3 Steel Fists that can drop a Kaiser Knuckles. You'll care about this only in Pixel."
-  - "A Monk with Kaiser Knuckles + !Rapid Fire is an extremely potent combination in this version. If you get the drop here, it'll immediately help out against Melusine for starters."
-  - "It may be annoying, but you can try quicksaving/resetting until you get the drop, otherwise you'll have an easier opportunity to farm them later in Istory Falls."
+  - "The monster-in-a-box chest containing the Black Garb in the fifth floor (take the hidden passage to the middle right room) may sometimes have a formation of 3 Steel Fists that can drop a Kaiser Knuckles. You'll care about this only on Pixel."
+  - "A Monk with Kaiser Knuckles + !Rapid Fire is an extremely potent combination on Pixel. If you get the drop here, it'll immediately help out against Melusine for starters."
+  - "It may be annoying, but you can try quicksaving/resetting until you get the drop. Otherwise, you can wait for later and farm them more easily in Istory Falls."
