@@ -5,11 +5,11 @@ Boatamesh & Enkidu:
     previous-nodes:
     - surgate
   Generic:
-  - "8888 HP, mixes up physicals with Missile and Death Claw. Summons Enkidu at 4000 HP."
-  - "Enkidu has 4000 HP and uses various blue magic, including the completely infuriating White Wind."
-  - "Kill Enkidu first, but watch out for his ability to cast Vampire for obscene damage and self-healing while you do."
+  - "Gilgamesh has 8,888 HP and mixes up !Attack, Missile, and Death Claw. He is Heavy, but not immune to instant death."
+  - "Gilgamesh will summon Enkidu when he has 4,000 HP or less remaining. Enkidu has 4,000 HP and uses various blue magic, including the completely infuriating White Wind. Enkidu is neither Heavy nor immune to instant death."
+  - "Prioritize killing Enkidu first, but watch out for Vampire, which will do for obscene damage (and self-healing) if you have to actually deal 4,000 damage without any tricks."
   Blue-Mage:
-  - "Gilgamesh is level 31. Dark Spark -> Level 5 Death can end this fight before Enkidu shows up."
+  - "Gilgamesh is level 31. Dark Spark -> Level 5 Death will end fight before Enkidu shows up."
   Berserker:
   - "Gilgamesh isn't immune to instant death. Death Sickle him before Enkidu shows up."
   Ranger:
@@ -19,13 +19,15 @@ Boatamesh & Enkidu:
   Chemist:
   - "Gilgamesh isn't immune to instant death. Death Potion him before Enkidu shows up."
   Samurai:
-  - "Enkidu is neither heavy nor immune to instant death. You can use !Iainuki, if you have it, though it doesn't get Gilgamesh."
+  - "Enkidu is neither heavy nor immune to instant death. You can use !Iainuki (if you have it) to one-shot Enkidu, but it won't get Gilgamesh."
   Time-Mage:
   - "Both Gilgamesh and Enkidu are vulnerable to Slow."
   Mystic-Knight:
-  - "Mystic Knights can nail Gilgamesh with a Silence !Spellblade, but it won't turn off his Blue Magic. So don't bother."
+  - "Mystic Knights CAN nail Gilgamesh with a Silence !Spellblade... but it won't stop his Blue Magic. So don't bother."
   Thief:
   - "You can steal a Genji Glove from Gilgamesh, if you have anyone who can equip heavy armor."
+  Geomancer:
+  - "!Gaia can roll Whirlpool (level 11-20 on SNES/GBA, 10% in level-independent versions) to reduce Enkidu to single-digit HP."
   Beastmaster:
-  - "You can !Control Enkidu. A self-targeted Hurricane works just fine."
-  - "You can also hit Gilgamesh with an Aquathorn, just like you did Dragon Pod, and skip Enkidu altogether."
+  - "You can !Control Enkidu. A self-targeted Hurricane will reduce Enkidu to single-digit HP."
+  - "You can also hit Gilgamesh with an Aquathorn (just like you did with Dragon Pod) and skip Enkidu altogether."
