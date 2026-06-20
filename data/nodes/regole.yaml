@@ -43,6 +43,6 @@ Regole:
   - "The Resurrection !Mix (Phoenix Down + Potion) can't miss, unlike Phoenix Down. Spend the extra Potion to guarantee the kill - you'll feel stupid if you don't and miss."
   - "For some reason, on Pixel, Resurrection can miss."
   Generic``:
-  - "In the Moogle Village, you can get the Dancing Dagger, which is primarily useful for giving every party access to a confuse effect."
+  - "In the Moogle Village, you can get the Dancing Dagger, which is primarily useful for giving every party access to Confuse. (1/8th of the time.)"
   Blue-Mage:
-  - "Now your Blue Mage can learn most !Control-only spells, even without a Beastmaster!"
+  - "Once you get the Dancing Dagger from Moogle Village, your Blue Mage can learn most !Control-only spells, even without a Beastmaster. It's tedious, but it works."
