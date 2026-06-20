@@ -11,6 +11,8 @@ Manticore:
     - "Manticore isn't immune to instant death, so Death Sickle works."
   UNION Ranger Thief:
     - "Manticore isn't immune to instant death, so if you stole a Killer Bow here's its time to shine!"
+  Chemist:
+    - "Manticore isn't immune to instant death, so you can Death Potion it."
   Blue-Mage:
     - "Manticore isn't Heavy, so Death Claw works."
   Samurai:
