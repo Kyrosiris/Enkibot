@@ -5,18 +5,18 @@ Halicarnassus:
     previous-nodes:
     - catastrophe
   Generic:
-  - "33333 HP, sky-high level (affects ailment spell accuracy)."
+  - "33,333 HP. Sky-high Level (which affects ailment spell accuracy), but really, not that much else."
   - "Starts the fight by casting Ribbit to turn the entire party into frogs."
   - "Casts Holy once every eight turns; having the party Reflected will let you scam an easy kill."
   - "In general, only has single-target offense. Any party can sandbag with Phoenix Downs."
   Summoner:
   - "For whatever reason, Halicarnassus counters all offensive summons with a single-target Strong Fight for 9999 that hits through Golem."
-  - "You can still just spam Carbuncle until it impales itself with Holy, though. Or use a lot of Phoenix Downs."
+  - "You can still just spam Carbuncle for the Reflect-Holy kill, though. Or use a lot of Phoenix Downs."
   INTERSECTION Black-Mage Red-Mage:
   - "The opening Ribbit spell just toggles Frog, so come into the fight as frogs to be cured by Ribbit and waste that turn."
   Blue-Mage:
   - "Halicarnassus is vulnerable to Blind if you want to mess around with trying to land Flash. I wouldn't bother, personally."
-  - "Also, the double Old and Slow vulnerability means that, for once, Time Slip actually works in this fight. That one's worth it, maybe."
+  - "The Old vulnerability means that Time Slip works to set Old on Pixel, but the paired Sleep immunity means this doesn't work on other versions."
   Mystic-Knight:
   - "Halicarnassus is vulnerable to Silence, which prevents the occasional self-buff and also Holy."
   - "That said, since Silence doesn't last that long on Heavy targets, run the numbers on just Flare Sword beatdown instead."
