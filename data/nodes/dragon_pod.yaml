@@ -5,13 +5,13 @@ Dragon Pod:
     previous-nodes:
     - bal
   Generic:
-  - "12000 HP, summons 100 HP Dragon Flowers that inflict various status effects."
-  - "Most parties will either clear Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
+  - "12,000 HP. Summons up to five 100 HP Dragon Flowers that each inflict a status ailment."
+  - "Most parties will either clear the Flowers repeatedly with AoE or abuse the Pod's vulnerability to instant death."
   - "Worst case scenario, the Bone Mail shuts down almost everything this fight can do for one lucky wearer."
-  - "Only the second Flower from the left inflicts an ailment that the Bone Mail doesn't nullify (paralyze)."
+  - "Only the second Flower from the left inflicts an ailment that the Bone Mail doesn't nullify (it's Paralyze)."
   - "The Flowers themselves have no status immunities, which is nice to know if you have to rely on the Bone Mail."
   Monk:
-  - "!Kick's time to shine is repeatedly clearing 100 HP idiots. If you're playing anything other than Pixel, this is probably Monk's last gasp at viability."
+  - "!Kick's time to shine is repeatedly clearing 100 HP idiots. If you're playing anything other than Pixel, this is probably the last fight your Monk will be the MVP."
   INTERSECTION Black-Mage Summoner Ninja:
   - "Powerful target-all spells (or scrolls) will keep the Pod stuck resummoning its Flowers every turn."
   Black-Mage:
