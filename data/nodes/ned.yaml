@@ -32,9 +32,9 @@ Neo Ex Cactuar:
   - "The Man-Eater deals critical damage to the left-most part (the one that dies to Magic Lamp Odin, so this tip isn't great, but it's what you've got to work with.)"
   - "Beyond that, it's Sword Dance all the way."
   Chemist:
-  - "Chemists want to lean on spamming Holy Breath (Dragon Fang + Holy Water). It does damage equal to your HP, which combos with Goliath Tonic doubling your max HP."
-  - "Between Goliath Tonic and the ability to Shell the whole team, Chemists can neuter Almagest."
-  - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) also grants immunity from Grand Cross's 'HP Critical' result." 
+  - "Chemists can just continue to Succubus Kiss until everything dies. Alternatively, there's Holy Breath (Dragon Fang + Holy Water), which does damage equal to your HP and combos well with Goliath Tonic doubling your max HP."
+  - "Between !Drinking Goliath Tonic (or mixing Elixir + Dragon Fang for the same effect) and the ability to Shell the whole team with Protect Potion (Turtle Shell + Turtle Shell), Chemists basically neuter Almagest."
+  - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) makes the target Heavy, granting immunity from Grand Cross's 'HP Critical' result... but likely doesn't matter, because you have Succubus Kiss."
   Samurai:
   - "You will need an obscene amount of gil to kill NED with just !Zeninage, but it's conceptually simple."
   - "If you have an easy way to kill them, the Movers in the last room of the void drop 50k gil each and come in packs of three."
@@ -66,40 +66,40 @@ Neo Ex Cactuar:
   - "In Pixel a !Summoned Odin CAN potentially use Zantetsuken on the leftmost part, but it's infinitely easier and more consistent to just use Magic Lamp Odin instead."
   - "Boosted Syldras can probably end this fight before it really begins. Load !Summon and Air Knives on everyone."
   Ninja:
-  - "Scrolls are still good AoE if backed up by a magic ability."
-  - "Now is the time to throw the legendary weapons you aren't using for good single-target damage. Fuma Shurikens are stronger, though."
+  - "Scrolls are still great AoE when backed up by a Magic ability to boost your Magic stat. Without those, probably not worth it. Just Dual Wield and, of course..."
+  - "Now is the time to !Throw the legendary weapons you aren't using for good single-target damage. Fuma Shurikens are stronger, and you have several of those from chests immediately prior to this. (Don't open Shinryu by accident.)"
   Geomancer:
-  - "!Gaia will always use Wind Slash here. Boost it with Air Knife or Rune Chime, and it'll do reasonable AoE damage."
+  - "!Gaia will always use Wind Slash here. Boost it with Air Knife or Rune Chime, and it'll do reasonable AoE damage. More so if backed up by a Magic ability... but then you have a Magic ability to use instead."
   Ranger:
   - "The top-right Melee part (the one that chucks out 1800 damage Vacuum Waves) can be blinded by Dark Bow."
-  - "On SNES, the two 'dummy' targets make !Rapid Fire less reliable."
+  - "On SNES, the two 'dummy' targets make !Rapid Fire less reliable. Other versions may continue as usual."
   - "The Artemis Bow is super effective against the Almagest part of NED, since it's a Magical Beast."
   Monk:
-  - "Unless you did a lot of grinding, your fists won't do much here. Just settle for a beefy Elixir dispenser, or use some other class's secondary."
+  - "Unless you did a lot of level grinding, your fists won't do much here. Just settle for a beefy Elixir dispenser, or use some other class's secondary."
   - "HP +30% can help other classes survive Almagest, though, and an actual Monk almost always will."
   - "If you have access to a good Equip ability and a strong weapon in Pixel, !Kick can do respectable AoE damage safely from the back row."
   UNION Monk Ranger:
-  - "Monk gets to do even more in Pixel if you also have Ranger, which depends on your loadout."
-  - "Kaiser Knuckles + !Rapid Fire will do superb damage but the bottom-left and top-left portions of NED are back row so they take half damage."
-  - "Use the Magic Lamp immediately to help steer your !Rapid Fire attacks to the front a little easier."
+  - "Monk gets to do even more in Pixel if you also have Ranger. Kaiser Knuckles + !Rapid Fire will do superb damage (but the bottom-left and top-left portions of NED are back row so they take half damage.)"
+  - "Use the Magic Lamp immediately to kill one of those two, which will help steer your !Rapid Fire attacks to the front since it becomes 2/3 rather than 1/2."
   - "If you have Equip Bows + Artemis Bow instead, use !Kick to deal good AoE damage to all parts at once while keeping your Hermes Sandals on."
-  - "Note that you can only trigger Almagest part's Artemis Bow weakness if you use !Fight."
+  - "Note that you can only trigger the Almagest part's weakness to Artemis Bow for extra damage if you actually !Attack. FFV is weird like that."
   White-Mage:
-  - "Blink is good against the physicals/Vacuum Waves. Shell is great against Almagest. You know the drill."
+  - "Blink is good against physical attacks and Vacuum Waves. Shell is great against Almagest. Holy is a reasonable offensive option. Nothing fancy to say, just keep doing what WHM has been doing all game."
   INTERSECTION Summoner Black-Mage:
   - "If you're having trouble killing the Almagest part before it kills you, you can attempt (at fairly low odds) to Petrify it."
   - "At sane levels, you've got about an 8% shot per cast. It's low, but can save you a bunch of grinding in return for a bunch of RNG."
+  - "Of course, those same levels from grinding would also boost your magic damage... which might end up faster overall."
   Black-Mage:
   - "AoE damage makes it pretty easy to kill the last two parts at the same time."
-  - "If you go with this method, though, keep in mind that the rightmost part has 5000 less HP than the middle parts."
-  - "Alternatively, the leftmost part has 5000 more than the middle ones, and dies to Magic Lamp Odin, so you can leave it for last on purpose."
+  - "If you go with this method, keep in mind that the rightmost part has 5,000 less HP than the middle parts."
+  - "Alternatively, the leftmost part has 5,000 more HP than the middle ones, so it will be the last one standing if you don't restrain yourself. You can kill it with Magic Lamp Odin to finish the fight."
   Red-Mage:
-  - "At least you can put up Protect for Almagest...?"
-  - "Raise+Cura isn't the *worst*, but offensively, on its own, RDM is probably breaking rods for this entire fight. Especially on Pixel, where you get to break BOOSTED rods."
-  - "Hopefully you have another class that can use !Dualcast and can pick up the slack."
+  - "While RDM doesn't have Shell, you do get Protect for the big physical hits. For whatever that's worth."
+  - "Raise+Cura isn't the absolute worst support, but on its own, RDM's best offensive option here is breaking Rods. Especially on Pixel, where you get to break BOOSTED Rods!"
+  - "Hopefully you have another class that can use !Dualcast and can pick up the slack. Or you didn't bother unlocking it and you're leaning on something stronger."
   Knight:
   - "Aegis Shield protects against a few Grand Cross outcomes, and can block Almagest, but you were wearing it anyway."
-  - "If you have the Defender from Fork Tower, you can use it to apply Protect to help mitigate Vacuum Wave, if you're worried."
+  - "If you have the Defender from Fork Tower, you can use it as an item to apply Protect, if you're worried about Vacuum Wave damage. You probably shouldn't be worried on Knight, but it's an option."
   UNION Knight Thief:
   - "You can steal a Ragnarok in this fight, and then swap it in to wield it without having to fight Shinryu, but it's a rare steal so it may not be worth your time."
   - "...and this is relevant because if you have Knight and Thief, your odds of being able to fight Shinryu are not great."
@@ -108,10 +108,10 @@ Neo Ex Cactuar:
   - "Wearing a Ribbon is great against Grand Cross, plus you have Aegis Shield access."
   Cannoneer:
   - "The physical attack part (rightmost) and the magic part (leftmost) are vulnerable to Slow."
-  - "All four parts are vulnerable to Darkness, but only the far-right one actually matters, because that one physically attacks."
-  - "The Almagest part (bottom middle) is vulnerable to Old, which will completely nerf its Almagest damage."
-  - "The Grand Cross part (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more than Needle Cannon at sane levels."
-  - "Between the Lamp, Darkness+Slow, and Old, the only part you don't outright neuter is the Grand Cross part... and for some reason CAN gets Aegis Shield access."
+  - "All four parts are vulnerable to Darkness, but only the far-right one actually matters, because only that one physically attacks."
+  - "The Almagest part (bottom middle) is vulnerable to Old, which will completely nerf its Almagest damage if inflicted right off the bat. Or later, but then the first Almagest might hurt."
+  - "The Grand Cross part (top middle) is a Dragon, so it will take double damage from Dragon Cannon, which might do more damage than Needle Cannon will at sane levels."
+  - "Between the Lamp, Darkness+Slow, and Old, the only part you don't outright neuter is the Grand Cross part... and for some reason CAN gets Aegis Shield access. So that's relatively safe too."
   Gladiator:
   - "Fishing for 9999 !Finisher hits will probably average more damage than !Bladeblitz, but either should be fine because Gladiator has lots of weapon options and LOTS of Strength."
   Oracle:
