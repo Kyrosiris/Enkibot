@@ -4,15 +4,15 @@ Garula:
     next-node: fireship
     previous-nodes: ['walse_tower', 'tycoon_treasure']
   Generic:
-    - "1200 HP, begins countering every attack with Rush at 800 HP."
-    - "Weak to Paralysis, like from the Whip, if you currently have someone to wield it."
-    - "A definite trainwreck waiting to happen for unlucky and unprepared players."
+    - "1,200 HP. Physically attacks. Begins countering every attack with Rush at 800 HP."
+    - "Vulnerable to Paralysis, Frog, and Blind."
+    - "A trainwreck waiting to happen for unlucky and unprepared players."
   Break-Rods:
     - "Of course, you can also farm up a Flame Rod from a Ricard Mage downstairs, or use the Frost Rod from Carwen."
   Knight:
     - "Knights can cheese this fight with three critical-HP characters and one Knight using nothing but !Guard."
-    - "Rush still inflicts Sap, so bring a few potions."
-    - "If you already have Two-Handed, it means half as many counterattacks before you kill. Good idea."
+    - "Rush still inflicts Sap, so bring a few Potions."
+    - "If you already have Two-Handed, it means half as many counterattacks to deal the same amount of damage, which is a strict improvement."
   White-Mage:
     - "White Mages can cast Protect to make Garula's offense half as dangerous."
     - "For 4x White Mage parties, put everyone in the back row and ONLY attack with the Flail to minimize counterattacks."
@@ -23,9 +23,9 @@ Garula:
     - "As a corollary, check when you get your next knife M increase on both Faris and Bartz, and maybe grind to it if it's close."
   Monk:
     - "The Monk's !Focus, which lets you hit twice as hard half as often, helps immensely with the counterattack mechanic."
-    - "In Pixel, !Focus has no penalty from the back row which makes your party safer too!"
+    - "In Pixel, !Focus has no penalty from the back row. This makes you even safer."
   Blue-Mage:
-    - "Garula is weak to Frog, so you can cast Pond's Chorus, have it spend its turn curing Frog, and repeat."
+    - "Garula is vulnerable to Frog, so you can cast Pond's Chorus, have it spend its turn curing Frog, and repeat."
     - "Blind will also work, if for some reason Frog abuse isn't enough."
   Freelancer:
     - "Garula is vulnerable to Paralyze, so the Whip can lock it down and prevent counterattacks. It doesn't always proc, but it goes a long way."
