@@ -5,10 +5,12 @@ Catastrophe:
     previous-nodes:
     - azulmagia
   Generic:
-  - "19997 HP, casts 100 Gs to dispel Float, then spams Earth Shaker and occasionally petrifies a target."
-  - "100 Gs can be reflected. Floating character + Reflect Ring means Catastrophe will literally never attack."
-  - "Dancing Dagger to confuse a Gaelicat (North Mountain) or Poison Eagle (rare encounter in the first room of the Cave [before Omega], feed it an Ether) for Float."
+  - "19,997 HP. Casts 100 Gs to dispel Float, then spams Earth Shaker and occasionally Petrifies a single target."
+  - "100 Gs can be reflected. A single Floating character wearing a Reflect Ring means that Catastrophe will literally never attack in any way."
+  - "Use the Dancing Dagger to confuse a Gaelicat (North Mountain) or Poison Eagle (rare encounter in the first room of the Cave [before Omega], feed it an Ether) to get Float if you can't cast it."
   - "Just don't use a Cottage or touch a healing pot (like the Phantom Village void one) once you're Floating."
+  - "Of course, many parties have the HP/healing/offense to power through Earth Shakers and kill Catastrophe normally."
+  - "Try it out before bothering with Float cheese if you want to potentially save time."
   Break-Rods:
   - "If you don't want to walk, you can use the Wonder Wand to get exactly one Float cast per cycle through the Wand. It's probably faster to walk, though."
   Time-Mage:
@@ -19,10 +21,7 @@ Catastrophe:
   Blue-Mage:
   - "...or just use Mighty Guard, which gives Float among other buffs."
   - "I guess you could also cast Flash for novelty? Or Time Slip on Pixel to set Old (but not Sleep.) Really, though, don't bother, Mighty Guard + Reflect Ring or just spam MG every turn."
-  Generic`:
-  - "Of course, many parties have the HP/healing/offense to power through Earth Shakers and kill Catastrophe normally."
-  - "Try it out before bothering with Float cheese if you want to potentially save time."
   Beastmaster:
-  - "For instance, !Releasing two Great Dragons will kill Catastrophe. Because they do 9999."
+  - "!Releasing two Great Dragons will kill Catastrophe. Because they do 9,999 here, just like every other fight."
   Cannoneer:
   - "Catastrophe is vulnerable to Slow and Old if you're going to just power through."
