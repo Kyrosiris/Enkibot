@@ -3,19 +3,20 @@ W2 Exdeath:
     next-node: antlion
     previous-nodes: ["scrubamesh"]
   Generic:
-    - "32768 HP; phase transitions at 16000 and 7000 HP remaining."
+    - "32,768 HP. Two phase transitions at 16,000 and 7,000 HP remaining."
+    - "Weak to the Holy element. Starts with innate Regen. Counters physical attacks with Dispel 1/3 of the time."
     - "Classes without a strong way to cheese this fight should bring Reflect Rings from Barrier Tower."
     - "If you're foregoing Reflect Rings, don't have anyone with a level divisible by 3, unless you want them to die to Level 3 Flare."
     - "If you are bringing Reflect Rings, going in with a level divisible by 3 is actively good!"
     - "Parties with weak healing options (or anyone, honestly) should consider reading Exdeath's AI script to be ready for Zombie Breath, which wipe a party at low HP."
   Shield:
-    - "Consider carefully what you give your Aegis Shield user; if things start going south they will likely be the one responsible for saving the fight."
+    - "Your Aegis Shield user will likely be responsible for saving the fight if things start going south. Plan their loadout carefully."
   White-Mage:
     - "Make sure you keep Protect up; Exdeath's Vacuum Wave is physical damage and nasty."
     - "Remember that you can't actually heal party members with a Reflect Ring, unless you have a way to also put Reflect on Exdeath. Thankfully, you have Reflect from Moore. So just cast it on Exdeath if you need."
-    - "Setting Berserk on your own physical characters can help with the mad rush to take his last 7000 HP."
+    - "Setting Berserk on your own physical characters can help with the mad rush to take his last 7,000 HP."
   Blue-Mage:
-    - "Level 2 Old works. If you know the timing (start running from the battle when you cast it. Once it lands, wait for six Can't Run! messages), you can cast Level 5 Death at the right time to end the fight."
+    - "Level 2 Old works. If you know the timing (start running from the battle when you cast it. Once it lands, wait for six 'Can't Run!' messages and then cast), you can cast Level 5 Death at the right time to end the fight."
     - "That said, you may also want to consider stalling the first form long enough to learn Level 3 Flare. I personally don't bother, but if you want to, that's cool too."
   UNION Beastmaster Blue-Mage:
     - "If you bothered to get Level 3 Flare before this fight, it's solid damage when you use it."
@@ -27,9 +28,9 @@ W2 Exdeath:
   Summoner:
     - "Make sure you keep Golem up; Exdeath's Vacuum Wave physicals are nasty."
   Beastmaster:
-    - "!Releasing four Yellow Dragons (8192 damage each) does 100% of HP total."
+    - "!Releasing four Yellow Dragons (25% of target's HP, so 8,192 damage each) will do 100% of Exdeath's HP in total."
   Ninja:
-    - "Consider !Throwing the Excalipoor and the Fuma Shuriken from two floors down to get through Exdeath's last 7000 HP."
+    - "Consider !Throwing the Excalipoor and the Fuma Shuriken from two floors down to get through Exdeath's last 7,000 HP."
   Mystic-Knight:
     - "Mystic Knights may have luck applying Drain Sword and just trying to DPS race."
   Bard:
@@ -39,10 +40,10 @@ W2 Exdeath:
     - "Dragon's Kiss (Dragon Fang + Maiden's Kiss) blocks Condemn, allowing you to buff up in peace."
     - "Exdeath is weak to Holy; chugging a Goliath Tonic and then spamming Holy Breath (Dragon Fang + Holy Water, damage based on your HP) works well."
   Staff:
-    - "Staff-wielding parties can grind for Staves of Light in Ghido's Cave; snapping them does about 4000 damage per Staff."
-    - "This also takes forever and should very much be treated as a last resort - that said, it can be useful to quickly push Exdeath below 16000 for the phase change."
+    - "Staff-wielding parties can grind for Staves of Light in Ghido's Cave. Breaking them like a Rod will deal about 4,000 damage per Staff."
+    - "This also takes forever and should very much be treated as a last resort. That said, it can be useful to quickly push Exdeath below 16,000 for the phase change to get away from the dangerous start of the fight."
     - "If you're still relying on the Healing Staff, remember that it won't work on anyone wearing a Reflect Ring."
   UNION Staff Ranger:
-    - "!Rapid Fire works with Staff of Light physical attacks. This obscurely specific tip sounds like a joke, but it isn't."
+    - "!Rapid Fire works with Staff of Light physical attacks. They're Holy elemental, so they hit Exdeath's weakness. This obscurely specific tip sounds like a joke, but it isn't."
   UNION Chemist Ranger:
-    - "Staff of Light attacks are also boosted by the Elemental Power !Mix. Go for it!"
+    - "Staff of Light attacks are also boosted by the Elemental Power !Mix. You know you want to!"
