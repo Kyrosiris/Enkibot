@@ -3,9 +3,11 @@ Crayclaw:
     next-node: adamantoise
     previous-nodes: ['bearaga']
   Generic:
-    - "2000 HP, uses various single-target attacks."
-    - "Signature combo is inflicting Sap, then using Tail Screw to reduce the target to single-digit HP."
+    - "2,000 HP. Uses various single-target attacks."
+    - "Signature combo is inflicting Sap, then using Tail Screw to reduce the target to single-digit HP so they die to the Sap DoT."
     - "High physical and magical defenses, but weak to many statuses. Remember that elemental weaknesses (here, lightning) ignore magic defense."
+  Pierce-Def:
+    - "Critical hits and axes work if you have no other way through."
   Break-Rods:
     - "Yes, this is another fight you can end with two rods."
   Elemental:
@@ -13,18 +15,16 @@ Crayclaw:
   Beastmaster:
     - "...or just Bearaga."
     - "Crayclaw is also vulnerable to Paralyze, so the Whip can lock it down."
-    - "Outside of the GBA version, there is no !Calm bug, so you can also lock Crayclaw down with !Calm (because it's a Magic Beast.)"
+    - "Outside of the GBA version, there is no !Calm bug, so you can also lock Crayclaw down with !Calm because it's a Magic Beast."
   INTERSECTION Mystic-Knight Black-Mage Red-Mage:
     - "Crayclaw is also vulnerable to Sleep, if you'd like to before you get your Thundara on."
   INTERSECTION Knight Blue-Mage:
     - "There are lightning-elemental Coral Swords in Jachol's weapon shop, if you're willing to make the detour."
   Ninja:
-    - "Thunder Scrolls murder Crayclaw, and if you don't have spares a common random encounter (Thunder Anemone) on the ocean drops them."
+    - "Thunder Scrolls murder Crayclaw, and if you don't have spares a common random encounter on the ocean (Thunder Anemone) drops them."
   Time-Mage:
     - "Crayclaw is vulnerable to Stop and Slow, so you can lock it down while you snap rods."
   INTERSECTION Ranger Freelancer:
     - "The Thunder Bow from Crescent Town's weapon shop hits Crayclaw's elemental weakness."
   Bard:
     - "Crayclaw is vulnerable to Confuse, so Alluring Air will lock it down."
-  Pierce-Def:
-    - "Critical hits and axes work if you have no other way through."
