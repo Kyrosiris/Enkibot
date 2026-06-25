@@ -3,8 +3,8 @@ Ifrit:
     next-node: byblos
     previous-nodes: ['library']
   Generic:
-    - "3000 HP, alternates between (Fira or Flame) and (Fight or Flame)"
-    - "20% physical evasion, which can be annoying."
+    - "3,000 HP. Alternates between (Fira or Flame) and (Fight or Flame), like you'd expect from the fire summon."
+    - "20% physical evasion, which can be annoying. Vulnerable to Silence, Confuse, Blind, Slow, and Paralyze."
   Break-Rods:
     - "Snapping a couple of Frost Rods will work with with minimal fuss."
   INTERSECTION Black-Mage Red-Mage Summoner:
