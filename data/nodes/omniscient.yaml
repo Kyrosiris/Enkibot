@@ -47,5 +47,7 @@ Minotaur & Omniscient:
   - "2) With a Reflect Ring+Bone Mail, just wait for Omniscient to commit suicide. Drain does a lot of the heavy lifting here."
   - "3) With a Reflect Ring, wait out all 30,000 MP. This may happen before suicide from the second strategy does."
   - "3.1) If you are going to do this, on GBA and SNES you can Reflect a Mage Masher proc and use an Ether on Omniscient. This overflows the 30,000 MP down to 9,999."
-  - "All of these options suck and if they are your best options, you probably don't need to do Fork Tower."
-  - "...unless you need to unlock Oracle, Gladiator, or Cannoneer, in which case, you have my sympathies."
+  - "3.2) This can fail at random on Pixel - the only 1 MP spell that Omniscient knows is Libra, and for some reason that isn't the case on Pixel, so it's quite possible to end up at an MP total that can never hit 0 because it's not enough to cast anything in the rotation."
+  - "All of these options are awful. If they are your best options, you probably don't need to do Fork Tower."
+  INTERSECTION Oracle Gladiator Cannonneer:
+  - "...except that you have to, because it's required to unlock the Advance jobs. You have my sympathies."
