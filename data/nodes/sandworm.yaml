@@ -3,7 +3,7 @@ Sandworm (Zerkersbane):
     next-node: bearaga
     previous-nodes: ['chocobo_forest']
   Generic:
-    - "3000 HP, can use Fight or Quicksand (deals 60 damage and inflicts Sap on all party members.)"
+    - "3,000 HP, can use Fight or Quicksand (deals 60 damage and inflicts Sap on all party members.)"
     - "Attacking the wrong hole triggers a Gravity counterattack."
     - "The game tells you not to use magic here. The game is lying. Use magic if at all possible."
   Break-Rods:
