@@ -7,7 +7,7 @@ Stokker:
   Generic:
   - "20,000 HP. Uses physical attacks and Hurricane/Mind Blast/Confuse. While there are four targets in this fight, only one is real."
   - "Attacking the three 'wrong' ones does no damage (not 0 damage, but no damage displayed at all.) The real one always starts in the top right for the first hit, then moves to a random location when hit."
-  - "They respond to multi-target attacks with an Ice-elemental counter. You can absorb this with a Fire Ring, but then you're not wearing Hermes Sandals."
+  - "They respond to multi-target attacks with an Ice-elemental counter. You can nullify this with a Flame Ring, but then you're not wearing Hermes Sandals."
   - "Attacking the real one with a weak weapon (like non-Monk unarmed fists, or the Knife) displays 0 damage (rather than displaying nothing) and also doesn't trigger the move."
   - "You can then unleash your strongest attack on that one, causing it to move, and repeat the process."
   Shield:
